@@ -11,3 +11,4 @@
 * [第六章	特立独行 —— 图形](chapter1/chapter1.md)
 * [第七章	清晰明了 —— 图表](chapter1/chapter1.md)
 * [第八章	活灵活现 —— 动画](chapter1/chapter1.md)
+* [第九章	演示之道 —— 幻灯片放映](chapter1/chapter1.md)
