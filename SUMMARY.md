@@ -5,7 +5,7 @@
 * [第一章 相见恨晚 —— 认识PowerPoint 2013](chapter1/chapter1.md)
    * [1.1  我们需要正视它](chapter1/chapter1.md)
    * [1.2  演示成功的准备](chapter1/chapter1.md)
-   * [1.1 我们需要正视它](chapter1/chapter1.md)
+   * [1.3  演示文稿的设计](chapter1/chapter1.md)
    * [1.2 演示成功的准备](chapter1/chapter1.md) 
 * [第二章 千里之行，始于足下 —— PowerPoint2013基础](chapter1/chapter1.md)
 * [第三章 胸有成竹——高效运用PowerPoint2013](chapter1/chapter1.md)
