@@ -21,4 +21,6 @@
 * [第十五章	 PPT之神 —— 文字设计](chapter1/chapter1.md)
 * [第十六章	 存在不只为了美 —— 图片设计](chapter1/chapter1.md)
 * [第十七章	 数据的创意展示 —— 图表设计](chapter1/chapter1.md)
-* [第十一章	 管理你的PPT](chapter1/chapter1.md)
+* [第十八章	 行云流水 —— 动画设计](chapter1/chapter1.md)
+* [第十九章	 声形结合——多媒体](chapter1/chapter1.md)
+* [第二十章	 遥遥可期——成长之路](chapter1/chapter1.md)
