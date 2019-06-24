@@ -12,3 +12,5 @@
 * [第七章	清晰明了 —— 图表](chapter1/chapter1.md)
 * [第八章	活灵活现 —— 动画](chapter1/chapter1.md)
 * [第九章	演示之道 —— 幻灯片放映](chapter1/chapter1.md)
+* [第十章	让PPT无处不在](chapter1/chapter1.md)
+* [第十一章	 管理你的PPT](chapter1/chapter1.md)
