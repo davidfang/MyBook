@@ -7,7 +7,7 @@
    * [1.2  演示成功的准备](chapter1/chapter1-2.md)
    * [1.3  演示文稿的设计](chapter1/chapter1-3.md)
    * [1.4  一个成功PPT的自我修养](chapter1/chapter1-4.md) 
-   * [1.4 一个成功PPT的自我修养](chapter1/chapter1-5.md) 
+   * [1.5 本章小结](chapter1/chapter1-5.md) 
 * [第二章 千里之行，始于足下 —— PowerPoint2013基础](chapter1/chapter1.md)
 * [第三章 胸有成竹——高效运用PowerPoint2013](chapter1/chapter1.md)
 * [第四章 得心应手 —— PowerPoint 2013常用功能](chapter1/chapter1.md)
