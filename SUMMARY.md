@@ -19,6 +19,6 @@
 * [第十三章	 搜集资源](chapter1/chapter1.md)
 * [第十四章	 让图形引导逻辑 —— 图形设计](chapter1/chapter1.md)
 * [第十五章	 PPT之神 —— 文字设计](chapter1/chapter1.md)
-* [第九章	演示之道 —— 幻灯片放映](chapter1/chapter1.md)
-* [第十章	让PPT无处不在](chapter1/chapter1.md)
+* [第十六章	 存在不只为了美 —— 图片设计](chapter1/chapter1.md)
+* [第十七章	 数据的创意展示 —— 图表设计](chapter1/chapter1.md)
 * [第十一章	 管理你的PPT](chapter1/chapter1.md)
