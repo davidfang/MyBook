@@ -13,14 +13,16 @@
       * [2.1.1  创建空白演示文档](chapter2/chapter2-1-1.md)
       * [2.1.2  使用主题创建演示文档](chapter2/chapter2-1-2.md)
    * [2.2  PowerPoint 2013基础知识](chapter2/chapter2-2.md)
-      * [2.2.1  用户界面](chapter2/chapter2-2-1.md)
-      * [2.2.2  常用功能区](chapter2/chapter2-2-2.md)
-      * [2.2.3  自定义快速访问工具栏](chapter2/chapter2-2-3.md)
-      * [2.2.3  视图模式](chapter2/chapter2-2-3.md)
+      *  [2.2.1  用户界面](./chapter2-2-1.md)
+      *  [2.2.2  常用功能区](./chapter2-2-2.md)
+      *  [2.2.3  自定义快速访问工具栏](./chapter2-2-3.md)
+      *  [2.2.4  视图模式](./chapter2-2-4.md)
    * [2.3  PowerPoint 2013基础操作](chapter2/chapter2-3.md)
       * [2.3.1  新建幻灯片](chapter2/chapter2-3-1.md)
-      * [2.3.2  更改幻灯片版式](chapter2/chapter2-2-2.md)
-      * [2.2.3  视图模式](chapter2/chapter2-2-3.md)
+      * [2.3.2  更改幻灯片版式](chapter2/chapter2-3-2.md)
+      * [2.3.3  移动和复制幻灯片](chapter2/chapter2-3-3.md)
+      * [2.3.4  隐藏、显示隐藏幻灯片](chapter2/chapter2-3-4.md)
+      * [2.3.5  使用“节”优化幻灯片制作](chapter2/chapter2-3-5.md)
    * [2.4  PowerPoint2013自带神器](chapter2/chapter2-4.md)
       * [2.4.1  标尺](chapter2/chapter2-4-1.md)
       * [2.4.2  网格](chapter2/chapter2-4-2.md)
@@ -29,48 +31,48 @@
       * [2.5.1  保存和另存为](chapter2/chapter2-5-1.md)
       * [2.5.2  保存格式](chapter2/chapter2-5-2.md)
    * [2.6 本章小结](chapter2/chapter2-6.md)
-* [第三章 胸有成竹——高效运用PowerPoint2013](chapter1/chapter1.md)
-   * 3.1  设置幻灯片主题
-      * 3.1.1  主题是什么？	
-         3.1.2  更改配色方案	
-         3.1.3  更改主题文字	
-         3.1.4  快速更改主题	
-         3.1.5  自定义主题	
-         3.1.6  下载外部主题	
-         3.1.7  背景设置	
-   * 3.2  调整PPT版式	
-   * 3.3  幻灯片母版	
-      * 3.3.1  母版与板式的认识	
-      * 3.3.1  批量修改字体	
-      * 3.3.2  批量修改背景	
-   * 3.4  通过大纲视图批量修改字体
-   * 3.5  直接替换字体	
-   * 3.5  Word快速变身PPT	
-   * 3.6  本章小结	
-* [第四章 得心应手 —— PowerPoint 2013常用功能](chapter1/chapter1.md)
-   * 4.1  调整文本框	
-      * 4.1.1  插入文本框	
-      * 4.1.2  设置文本框格式	
-      * 4.1.3  对齐方式	
-      * 4.1.4  插入公式和符号	
-   * 4.2  调整段落格式	
-      * 4.2.1  缩进与间距调整	
-      * 4.2.2  添加项目符号与编号	
-   * 4.3  艺术字	
-   * 4.4  图形渐变	
-   * 4.4  本章小结	
+* [第三章 胸有成竹——高效运用PowerPoint2013](chapter3/chapter3.md)
+   * [3.1  设置幻灯片主题](chapter3/chapter3-1.md)
+      * [3.1.1  主题是什么？](chapter3/chapter3-1-1.md)
+      * [3.1.2  更改配色方案](chapter3/chapter3-1-2.md)
+      * [3.1.3  更改主题文字](chapter3/chapter3-1-3.md)
+      * [3.1.4  快速更改主题](chapter3/chapter3-1-4.md)
+      * [3.1.5  自定义主题](chapter3/chapter3-1-5.md)
+      * [3.1.6  下载外部主题](chapter3/chapter3-1-6.md)
+      * [3.1.7  背景设置](chapter3/chapter3-1-7.md)
+   * [3.2  调整PPT版式](chapter3/chapter3-2.md)	
+   * [3.3  幻灯片母版](chapter3/chapter3-3.md)	
+      * [3.3.1  母版与板式的认识](chapter3/chapter3-3-1.md)
+      * [3.3.2  批量修改字体](chapter3/chapter3-3-2.md)
+      * [3.3.3  批量修改背景](chapter3/chapter3-3-3.md)	
+   * [3.4  通过大纲视图批量修改字体](chapter3/chapter3-4.md)
+   * [3.5  直接替换字体](chapter3/chapter3-5.md)	
+   * [3.6  Word快速变身PPT](chapter3/chapter3-6.md)	
+   * [3.7  本章小结](chapter3/chapter3-7.md)	
+* [第四章 得心应手 —— PowerPoint 2013常用功能](chapter4/chapter4.md)
+   * [4.1  调整文本框](chapter4/chapter4-1.md)	
+      * [4.1.1  插入文本框](chapter4/chapter4-1-1.md)	
+      * [4.1.2  设置文本框格式](chapter4/chapter4-1-2.md)	
+      * [4.1.3  对齐方式](chapter4/chapter4-1-3.md)	
+      * [4.1.4  插入公式和符号](chapter4/chapter4-1-4.md)	
+   * [4.2  调整段落格式](chapter4/chapter4-2.md)	
+      * [4.2.1  缩进与间距调整](chapter4/chapter4-2-1.md)	
+      * [4.2.2  添加项目符号与编号](chapter4/chapter4-2-2.md)	
+   * [4.3  艺术字](chapter4/chapter4-3.md)	
+   * [4.4  图形渐变](chapter4/chapter4-4.md)	
+   * [4.5  本章小结](chapter4/chapter4-5.md)	
 ## Part 2 提高篇
-* [第五章	美轮美奂 —— 图片](chapter1/chapter1.md)
-  * 5.1  什么是可视化？
-  * 5.2  什么才是你的图片标准？
-  * 5.3  常用的图片格式
-  * 5.4  批量插入图片
-  * 5.5  提升图片质量
-  * 5.6  快速艺术效果
-  * 5.7  图片的边框
-  * 5.7  图片的裁剪和抠图
-  * 5.8  图片融入背景
-  * 5.9  本章小结
+* [第五章	美轮美奂 —— 图片](chapter5/chapter5.md)
+  * [5.1  什么是可视化？](chapter5/chapter5-1.md)
+  * [5.2  什么才是你的图片标准？](chapter5/chapter5-2.md)
+  * [5.3  常用的图片格式](chapter5/chapter5-2.md)
+  * [5.4  批量插入图片](chapter5/chapter5-3.md)
+  * [5.5  提升图片质量](chapter5/chapter5-4.md)
+  * [5.6  快速艺术效果](chapter5/chapter5-5.md)
+  * [5.7  图片的边框](chapter5/chapter5-6.md)
+  * [5.7  图片的裁剪和抠图](chapter5/chapter5-7.md)
+  * [5.8  图片融入背景](chapter5/chapter5-8.md)
+  * [5.9  本章小结](chapter5/chapter5-9.md)
 * [第六章	特立独行 —— 图形](chapter1/chapter1.md)
   * 6.1  SmartArt图形
     * 6.1.1  创建SmartArt图形

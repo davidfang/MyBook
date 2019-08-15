@@ -3,7 +3,7 @@ typora-copy-images-to: ..\assets
 typora-root-url: ..\assets
 ---
 
-## 2.2.2  常用功能区
+### 2.2.2  常用功能区
 
 **“开始”选项卡**
 
