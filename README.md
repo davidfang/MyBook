@@ -1,34 +1,12 @@
 # PowerPoint设计小册
 
-* [Introduction](README.md)
-  ## Part 1 基础篇
-* [第一章 相见恨晚 —— 认识PowerPoint 2013](chapter1/chapter1.md)
-  * [1.1  我们需要正视它](chapter1/chapter1-1.md)
-  * [1.2  演示成功的准备](chapter1/chapter1-2.md)
-  * [1.3  演示文稿的设计](chapter1/chapter1-3.md)
-  * [1.4  一个成功PPT的自我修养](chapter1/chapter1-4.md) 
-  * [1.5 本章小结](chapter1/chapter1-5.md) 
-* [第二章 千里之行，始于足下 —— PowerPoint2013基础](chapter1/chapter1.md)
-* [第三章 胸有成竹——高效运用PowerPoint2013](chapter1/chapter1.md)
-* [第四章 得心应手 —— PowerPoint 2013常用功能](chapter1/chapter1.md)
-  ## Part 2 提高篇
-* [第五章    美轮美奂 —— 图片](chapter1/chapter1.md)
-* [第六章    特立独行 —— 图形](chapter1/chapter1.md)
-* [第七章    清晰明了 —— 图表](chapter1/chapter1.md)
-* [第八章    活灵活现 —— 动画](chapter1/chapter1.md)
-* [第九章    演示之道 —— 幻灯片放映](chapter1/chapter1.md)
-* [第十章    让PPT无处不在](chapter1/chapter1.md)
-* [第十一章     管理你的PPT](chapter1/chapter1.md)
-  ## Part 3 高级篇
-* [第十二章     PPT的三大原则](chapter1/chapter1.md)
-* [第十三章     搜集资源](chapter1/chapter1.md)
-* [第十四章     让图形引导逻辑 —— 图形设计](chapter1/chapter1.md)
-* [第十五章     PPT之神 —— 文字设计](chapter1/chapter1.md)
-* [第十六章     存在不只为了美 —— 图片设计](chapter1/chapter1.md)
-* [第十七章     数据的创意展示 —— 图表设计](chapter1/chapter1.md)
-* [第十八章     行云流水 —— 动画设计](chapter1/chapter1.md)
-* [第十九章     声形结合——多媒体](chapter1/chapter1.md)
-* [第二十章     遥遥可期——成长之路](chapter1/chapter1.md)
+写写自己当初写[PowerPoint 2013设计小册](https://chunlife.top/categories/设计小册/)，到如今的想法，确实有很多想写出来的，毕竟不管怎么样，情愿或非情愿，这都是自己的经历，现在想来其实也不是那么让人头疼。
 
+来来回回的写，来来回回的删，不知道现在该以什么样的心情写出这些东西，大概是想抱怨的吧，要不就煽情？想想也就算了吧，其实也没啥大不了的。。。
 
+写书动机呢，肯定不是自愿的，但写好它的动机大概也是自愿的，而且神奇的是，它竟然能够完成，也就只能说一句，了不起，嘿嘿、、、
+
+> 最后我想说，幸好那个时候有你相伴，让我依然保持对这个世界最大的善意，不至于过于抱怨，不至于对自己过于失望，坚持下去，给了自己信心和自傲。以前的我让你受累了，谢谢你的包容。
+>
+> ——致温柔美丽如初的你。
 
