@@ -13,5 +13,3 @@ typora-root-url: ..\assets
 
 ![图3-1](/1565865869268.png)
 
-<center>图3-1</center>
-

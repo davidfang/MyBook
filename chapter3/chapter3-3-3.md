@@ -1,10 +1,26 @@
-## 3.1  设置幻灯片主题
+---
+typora-copy-images-to: ..\assets\03
+typora-root-url: ..\assets\03
+---
 
-- [3.1.1  主题是什么？](chapter3/chapter3-1-1.md)
-- [3.1.2  更改配色方案](chapter3/chapter3-1-2.md)
-- [3.1.3  更改主题文字](chapter3/chapter3-1-3.md)
-- [3.1.4  快速更改主题](chapter3/chapter3-1-4.md)
-- [3.1.5  自定义主题](chapter3/chapter3-1-5.md)
-- [3.1.6  下载外部主题](chapter3/chapter3-1-6.md)
-- [3.1.7  背景设置](chapter3/chapter3-1-7.md)
+##### 3.3.1  批量修改背景
 
+利用母版与版式的一大优点就是统一，能简洁的完成这一繁琐的任务，帮助使用者节省时间，它也能帮助我们统一背景。
+
+如图3-45所示，对版式进行如下修改。
+
+![img](/image057.png)
+
+<center>图3-45</center>
+
+关闭母版视图，整个背景和版式一模一样，如图3-46所示。
+
+![img](/image058.png)
+
+<center>图3-46</center>
+
+若需要另一个版式的背景，则直接选中幻灯片缩略图，右键，选择相应的版式，相应版式上的元素就会自动更新幻灯片，如图3-47所示。
+
+![img](/image059.png)
+
+<center>图3-47</center>

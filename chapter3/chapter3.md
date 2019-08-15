@@ -1,4 +1,4 @@
-## 第三章 胸有成竹——高效运用PowerPoint2013
+# 第三章 胸有成竹——高效运用PowerPoint2013
 
 - [3.1  设置幻灯片主题](chapter3/chapter3-1.md)
   - [3.1.1  主题是什么？](chapter3/chapter3-1-1.md)

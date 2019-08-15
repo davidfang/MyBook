@@ -1,10 +1,20 @@
-## 3.1  设置幻灯片主题
+---
+typora-copy-images-to: ..\assets\03
+typora-root-url: ..\assets\03
+---
 
-- [3.1.1  主题是什么？](chapter3/chapter3-1-1.md)
-- [3.1.2  更改配色方案](chapter3/chapter3-1-2.md)
-- [3.1.3  更改主题文字](chapter3/chapter3-1-3.md)
-- [3.1.4  快速更改主题](chapter3/chapter3-1-4.md)
-- [3.1.5  自定义主题](chapter3/chapter3-1-5.md)
-- [3.1.6  下载外部主题](chapter3/chapter3-1-6.md)
-- [3.1.7  背景设置](chapter3/chapter3-1-7.md)
+### 3.3.2  批量修改字体
 
+在制作完成PPT后，突然发现需要修改字体，那么运用母版将会使你快速的修改好字体。
+
+如图3-43所示，默认字体为“宋体”。进入母版视图，单击选中占位符，在“开始”中设置字体，将标题设置为“微软雅黑”，正文为“楷体”，退出母版视图，如图3-44所示。
+
+![img](/image055.png)
+
+<center>图3-43</center>
+
+![img](/image056.png)
+
+<center>图3-44</center>
+
+版式中不仅可以修改字体，而且可以修改内容的字体字号和颜色，方法和修改字体一样，这样所有内容的字体和字号都能保持一致。
