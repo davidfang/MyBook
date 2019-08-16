@@ -9,31 +9,31 @@ typora-root-url: ..\assets\04
 
 如图4-122所示，为图中圆角矩形添加渐变效果。
 
-![img](/assets/04/../../第四章得心应手.files/image127.jpg)
+![img](/assets/04/image127.jpg)
 
 图4-122
 
 选中圆角矩形，单击右键，选择“设置形状格式”。
 
-![img](/assets/04/../../第四章得心应手.files/image128.jpg)
+![img](/assets/04/image128.jpg)
 
 图4-122
 
 在弹出来的对话框中，勾选渐变填充。
 
-![img](/assets/04/../../第四章得心应手.files/image129.jpg)
+![img](/assets/04/image129.jpg)
 
 图4-123
 
 选择线性渐变，方向选择线性向右，角度将会自动变化为0°，添加三个光圈，由左向右，由深及浅，如图4-124所示。
 
-![img](/assets/04/../../第四章得心应手.files/image130.jpg)
+![img](/assets/04/image130.jpg)
 
 图4-124
 
 完成所有的参数设置后，效果如图4-125所示。
 
-![img](/assets/04/../../第四章得心应手.files/image131.jpg)
+![img](/assets/04/image131.jpg)
 
 图4-125
 
@@ -41,13 +41,13 @@ typora-root-url: ..\assets\04
 
 例如前面有所展示过的图片，如图4-126所示中的图形也用到了渐变。
 
-![img](/assets/04/../../第四章得心应手.files/image132.jpg)
+![img](/assets/04/image132.jpg)
 
 图4-126
 
 它是由一个梯形渐变而来，如图4-127所示。
 
-![img](/assets/04/../../第四章得心应手.files/image133.jpg)
+![img](/assets/04/image133.jpg)
 
 图4-126
 

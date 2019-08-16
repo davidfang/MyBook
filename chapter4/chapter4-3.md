@@ -11,7 +11,7 @@ typora-root-url: ..\assets\04
 
 “插入”选项卡——>“文本”组——>“艺术字”。如图4-39所示。
 
-![img](/assets/04/../../第四章得心应手.files/image042.jpg)
+![img](/assets/04/image042.jpg)
 
 图4-39
 
@@ -21,7 +21,7 @@ typora-root-url: ..\assets\04
 
 艺术字里的的默认效果有20个，使用这些默认效果可以满足大部分情况。如图4-40所示。
 
-![img](/assets/04/../../第四章得心应手.files/image043.jpg)
+![img](/assets/04/image043.jpg)
 
 图4-40
 
@@ -31,7 +31,7 @@ typora-root-url: ..\assets\04
 
 选中需要添加艺术字效果的文本框——>单击出现在功能区上的“绘图工具”——>在“艺术字样式”单击默认艺术字旁下拉箭头，如图4-41所示。
 
-![img](/assets/04/../../第四章得心应手.files/image044.jpg)        ![img](/assets/04/../../第四章得心应手.files/image045.jpg)
+![img](/assets/04/image044.jpg)        ![img](/assets/04/image045.jpg)
 
 图4-41                            图4-42
 
@@ -47,19 +47,19 @@ typora-root-url: ..\assets\04
 
 选择“其他填充颜色”命令，为文本替换另一种纯色。可以在主体颜色中选取，也可以在“其他填充颜色”中选择。
 
-![img](/assets/04/../../第四章得心应手.files/image046.jpg)       ![img](/assets/04/../../第四章得心应手.files/image047.jpg)
+![img](/assets/04/image046.jpg)       ![img](/assets/04/image047.jpg)
 
 图4-43                      图4-44             
 
 在调色板中选择一种颜色，比如蓝色。
 
-![img](/assets/04/../../第四章得心应手.files/image048.jpg)    ![img](/assets/04/../../第四章得心应手.files/image049.jpg)
+![img](/assets/04/image048.jpg)    ![img](/assets/04/image049.jpg)
 
 图4-45                        图4-46        
 
 当需要其他颜色时，也可以为文字添加自定义填充色。可以在色带中直接单击颜色，通过右下角的对比确定颜色需求，也可以通过颜色模式RGB自由调配红、绿、蓝的数值，同时也可以转换成HSL模式。不管哪种模式下，PPT都可以调配颜色的亮度，以达到一色多用，并且不会造成颜色的不统一。如图4-47所示，为文字配上红色。
 
-![img](/assets/04/../../第四章得心应手.files/image050.jpg)      ![img](/assets/04/../../第四章得心应手.files/image051.jpg)
+![img](/assets/04/image050.jpg)      ![img](/assets/04/image051.jpg)
 
 图4-46                          图4-47    
 
@@ -69,13 +69,13 @@ typora-root-url: ..\assets\04
 
 选择填充“图片”选项。
 
-![img](/assets/04/../../第四章得心应手.files/image052.jpg)      ![img](/assets/04/../../第四章得心应手.files/image053.jpg)
+![img](/assets/04/image052.jpg)      ![img](/assets/04/image053.jpg)
 
 图4-48                       图4-49          
 
 在本地文件夹中选择希望填充的图片，选中后，单击“插入”按钮。
 
-![img](/assets/04/../../第四章得心应手.files/image054.jpg) ![img](/assets/04/../../第四章得心应手.files/image055.jpg)
+![img](/assets/04/image054.jpg) ![img](/assets/04/image055.jpg)
 
 图4-50                                  图4-51              
 
@@ -87,25 +87,25 @@ typora-root-url: ..\assets\04
 
 选择“渐变填充”。
 
-![img](/assets/04/../../第四章得心应手.files/image056.jpg)         ![img](/assets/04/../../第四章得心应手.files/image057.jpg)
+![img](/assets/04/image056.jpg)         ![img](/assets/04/image057.jpg)
 
 图4-52                         图4-53
 
 渐变是在现有的色彩进行渐变，选取“线性向右”渐变。
 
-![img](/assets/04/../../第四章得心应手.files/image058.jpg)   ![img](/assets/04/../../第四章得心应手.files/image059.jpg)
+![img](/assets/04/image058.jpg)   ![img](/assets/04/image059.jpg)
 
 图4-54                        图4-55        
 
 也可以选择“其他渐变”，10或13版PPT会自动弹出一个窗格。
 
-![img](/assets/04/../../第四章得心应手.files/image060.jpg)       ![img](/assets/04/../../第四章得心应手.files/image061.jpg)
+![img](/assets/04/image060.jpg)       ![img](/assets/04/image061.jpg)
 
 图4-56                                 图4-57 
 
 这是在07版以后的PPT中是一个强大的功能，13版将其精简、美化了许多，有了这个功能窗格，PPT对图形和文本的处理能力突飞猛进，一发不可收拾。可以选取PPT自带的渐变色，总共有30种。
 
-![img](/assets/04/../../第四章得心应手.files/image062.jpg)       ![img](/assets/04/../../第四章得心应手.files/image063.jpg)
+![img](/assets/04/image062.jpg)       ![img](/assets/04/image063.jpg)
 
 图4-58                                   图4-59
 
@@ -113,49 +113,49 @@ typora-root-url: ..\assets\04
 
 线性渐变：直线型颜色的过渡效果，可以选择从八个方向进行渐变。45°线性效果如图所示。
 
-![img](/assets/04/../../第四章得心应手.files/image064.jpg)      ![img](/assets/04/../../第四章得心应手.files/image065.jpg)
+![img](/assets/04/image064.jpg)      ![img](/assets/04/image065.jpg)
 
 图4-60                           图4-61   
 
 射线渐变：由点及面的辐射过渡效果。有5个预设渐变方向，无法人为自由调整角度。
 
-![img](/assets/04/../../第四章得心应手.files/image066.jpg)      ![img](/assets/04/../../第四章得心应手.files/image067.jpg)
+![img](/assets/04/image066.jpg)      ![img](/assets/04/image067.jpg)
 
 图4-62                         图4-63           
 
 矩形渐变：由点及面90°辐射的过渡效果。有5个预设渐变方向，无法自由调整角度。
 
-![img](/assets/04/../../第四章得心应手.files/image068.jpg)      ![img](/assets/04/../../第四章得心应手.files/image069.jpg)
+![img](/assets/04/image068.jpg)      ![img](/assets/04/image069.jpg)
 
 ​     图4-64                            图4-65    
 
 路径渐变：由中心到四周360°辐射过渡效果。 不可设置方向与角度。
 
-![img](/assets/04/../../第四章得心应手.files/image070.jpg)         ![img](/assets/04/../../第四章得心应手.files/image071.jpg)
+![img](/assets/04/image070.jpg)         ![img](/assets/04/image071.jpg)
 
 图4-66                            图4-67    
 
 四种渐变，只有线性渐变可以自定义渐变角度，自定义角度，让你的拥有自己的渐变色。
 
-![img](/assets/04/../../第四章得心应手.files/image072.png)   ![img](/assets/04/../../第四章得心应手.files/image073.jpg)
+![img](/assets/04/image072.png)   ![img](/assets/04/image073.jpg)
 
 图4-68                     图4-69
 
 了解渐变，还应当了解渐变的一个重要工具——光圈，07版后，PPT中加入了光圈这个概念，在PPT中，最多可以 添加10个光圈。其实渐变的实现也就是不同颜色的光圈按一定顺序分布的结果。如下图，添加四个光圈，分别是红、黄、蓝、绿，依次排列。
 
-![img](/assets/04/../../第四章得心应手.files/image074.jpg)         ![img](/assets/04/../../第四章得心应手.files/image075.jpg)
+![img](/assets/04/image074.jpg)         ![img](/assets/04/image075.jpg)
 
 图4-70                          图4-71     
 
 增加的光圈越多，颜色之间的过渡越紧密，光圈的多少对渐变的影响是非常大的。在图4-70的基础上，在两个光圈中间再加入一个颜色，效果如下图所示。
 
-![img](/assets/04/../../第四章得心应手.files/image076.jpg)        ![img](/assets/04/../../第四章得心应手.files/image077.jpg)
+![img](/assets/04/image076.jpg)        ![img](/assets/04/image077.jpg)
 
 图4-72                            图4-73
 
 光圈颜色是可以调节透明度的，将颜色调成透明色后，又会是另外一种效果，例如，我们将光圈一和光圈调节为100%透明。
 
-![img](/assets/04/../../第四章得心应手.files/image078.jpg)         ![img](/assets/04/../../第四章得心应手.files/image079.jpg)
+![img](/assets/04/image078.jpg)         ![img](/assets/04/image079.jpg)
 
 图4-74                              图4-75
 
@@ -165,13 +165,13 @@ typora-root-url: ..\assets\04
 
 选中文本框，“绘图工具—格式”选项卡——>“文本填充”——>纹理。
 
-![img](/assets/04/../../第四章得心应手.files/image080.jpg)           ![img](/assets/04/../../第四章得心应手.files/image081.jpg)
+![img](/assets/04/image080.jpg)           ![img](/assets/04/image081.jpg)
 
 图4-76                            图4-77
 
 当鼠标移至“纹理”命令上，会自动弹出对话框，选择适合的纹理，单击即可运用至文本上，例如选择“绿色大理石”。
 
-![img](/assets/04/../../第四章得心应手.files/image082.jpg)       ![img](/assets/04/../../第四章得心应手.files/image083.jpg)
+![img](/assets/04/image082.jpg)       ![img](/assets/04/image083.jpg)
 
 图4-78                             图4-79     
 
@@ -179,25 +179,25 @@ typora-root-url: ..\assets\04
 
 如图4-80所示，“文件”是从本机中选择图片，剪贴板则是将最近一次的剪切插入文字中，“联机”则是从网络上搜索图片。
 
-![img](/assets/04/../../第四章得心应手.files/image084.jpg)
+![img](/assets/04/image084.jpg)
 
 图4-80
 
 在本机中寻找图片插入，单击“文件”，点击“插入”，不勾选“将图片平铺为纹理”。
 
-![img](/assets/04/../../第四章得心应手.files/image085.jpg) ![img](/assets/04/../../第四章得心应手.files/image086.jpg)
+![img](/assets/04/image085.jpg) ![img](/assets/04/image086.jpg)
 
 图4-81                        图4-82
 
 勾选“将图片平铺为纹理”，调整各项参数得到下图的效果。
 
-![img](/assets/04/../../第四章得心应手.files/image087.jpg)       ![img](/assets/04/../../第四章得心应手.files/image088.jpg)
+![img](/assets/04/image087.jpg)       ![img](/assets/04/image088.jpg)
 
 图4-83                               图4-84  
 
 调整各项参数可以得到各种各样截然不同的效果，丰富多彩，如图4-85所示。
 
-![img](/assets/04/../../第四章得心应手.files/image089.jpg)
+![img](/assets/04/image089.jpg)
 
 图4-85
 
@@ -207,31 +207,31 @@ typora-root-url: ..\assets\04
 
 选中文本框，“绘图工具—格式”选项卡——>“文本轮廓”，同时也可以选中文字后单击鼠标右键选择编辑文本格式，如图4-86、图4-87所示。
 
-![img](/assets/04/../../第四章得心应手.files/image090.jpg)      ![img](/assets/04/../../第四章得心应手.files/image091.jpg)
+![img](/assets/04/image090.jpg)      ![img](/assets/04/image091.jpg)
 
 图4-86                            图4-87
 
 在“文本轮廓”中选择不同的颜色作为边框，不同的颜色给人不同感觉，如黄色和红色会给人一种对比、冲击的效果，蓝色则会给人一种庄重、严肃的感觉。
 
-![img](/assets/04/../../第四章得心应手.files/image092.jpg)             ![img](/assets/04/../../第四章得心应手.files/image093.jpg)
+![img](/assets/04/image092.jpg)             ![img](/assets/04/image093.jpg)
 
 图4-88                                 图4-89    
 
 对文本边框的粗细大小也可以进行调整，当然不介意将边框调得过大，毕竟文字才是重点。
 
-![img](/assets/04/../../第四章得心应手.files/image094.jpg)         ![img](/assets/04/../../第四章得心应手.files/image095.jpg)
+![img](/assets/04/image094.jpg)         ![img](/assets/04/image095.jpg)
 
 图4-90                                  图4-91           
 
 值得注意的是，在单击“其他线条”命令后，我们可以看到，线条也可以添加渐变，这就大大的增加了边框的实用性和利用价值。
 
-![img](/assets/04/../../第四章得心应手.files/image096.jpg)        ![img](/assets/04/../../第四章得心应手.files/image097.jpg)
+![img](/assets/04/image096.jpg)        ![img](/assets/04/image097.jpg)
 
 图4-92                             图4-93   
 
 所有有关文本边框的参数设计都在图4-92中，通过对颜色、渐变以及透明效果的设置，将使得文本拥有更多不一样的效果。
 
-![img](/assets/04/../../第四章得心应手.files/image098.jpg)
+![img](/assets/04/image098.jpg)
 
 图4-93
 
@@ -245,7 +245,7 @@ typora-root-url: ..\assets\04
 
 “绘图工具—格式”选项卡——>“文本效果”——>“阴影”
 
-![img](/assets/04/../../第四章得心应手.files/image099.jpg)        ![img](/assets/04/../../第四章得心应手.files/image100.jpg)
+![img](/assets/04/image099.jpg)        ![img](/assets/04/image100.jpg)
 
 图4-94                        图4-95           
 
@@ -257,13 +257,13 @@ PPT预设了三种不同的阴影状态外部阴影、内部阴影、透视。
 
 透视是阴影最给人以立体感的效果，画画中经常用到这种手法，近大远小，给人以光线投影的效果。
 
-![img](/assets/04/../../第四章得心应手.files/image101.jpg)           ![img](/assets/04/../../第四章得心应手.files/image102.jpg)
+![img](/assets/04/image101.jpg)           ![img](/assets/04/image102.jpg)
 
 图4-96                            图4-97              
 
 选择图4-96下的“阴影选项”，将可以对阴影的颜色、透明度、大小、模糊、角度、距离等进行自定义设置。
 
-![img](/assets/04/../../第四章得心应手.files/image103.jpg)
+![img](/assets/04/image103.jpg)
 
 图4-98
 
@@ -275,13 +275,13 @@ PPT预设了三种不同的阴影状态外部阴影、内部阴影、透视。
 
 “绘图工具—格式”选项卡——>“文本效果”——>“映像”。
 
-![img](/assets/04/../../第四章得心应手.files/image104.png)            ![img](/assets/04/../../第四章得心应手.files/image105.jpg)
+![img](/assets/04/image104.png)            ![img](/assets/04/image105.jpg)
 
 图4-99                           图4-100             
 
 在“映像”命令的弹出框中选择合适的效果，有9个预设效果，鼠标悬停预览后，单击即可运用。
 
-![img](/assets/04/../../第四章得心应手.files/image106.png)         ![img](/assets/04/../../第四章得心应手.files/image107.jpg)
+![img](/assets/04/image106.png)         ![img](/assets/04/image107.jpg)
 
 图4-101                              图4-102      
 
@@ -295,25 +295,25 @@ PPT预设了三种不同的阴影状态外部阴影、内部阴影、透视。
 
 选中文本，“绘图工具—格式”选项卡——>“文本效果”——>“发光”。
 
-![img](/assets/04/../../第四章得心应手.files/image108.jpg)                ![img](/assets/04/../../第四章得心应手.files/image109.jpg)
+![img](/assets/04/image108.jpg)                ![img](/assets/04/image109.jpg)
 
 图4-103                          图4-104                
 
 在“发光”命令弹出来的对话框中预览需要的效果，单击选择应用。
 
-![img](/assets/04/../../第四章得心应手.files/image110.jpg)         ![img](/assets/04/../../第四章得心应手.files/image111.jpg)            
+![img](/assets/04/image110.jpg)         ![img](/assets/04/image111.jpg)            
 
 图4-105                            图4-106           
 
 单击“其他亮色”，可以为文本添加其他的颜色，而不仅仅局限于预设的几种。
 
-![img](/assets/04/../../第四章得心应手.files/image112.png)        ![img](/assets/04/../../第四章得心应手.files/image113.jpg)     
+![img](/assets/04/image112.png)        ![img](/assets/04/image113.jpg)     
 
 图4-107                              图4-108  
 
 添加一个与发光颜色相同的边框将会增强发光的效果，例如在图4-108的基础上，增加一个白色边框。
 
-![img](/assets/04/../../第四章得心应手.files/image114.jpg)
+![img](/assets/04/image114.jpg)
 
 图4-109
 
@@ -325,19 +325,19 @@ PPT预设了三种不同的阴影状态外部阴影、内部阴影、透视。
 
  
 
-![img](/assets/04/../../第四章得心应手.files/image115.jpg)            ![img](/assets/04/../../第四章得心应手.files/image116.jpg)
+![img](/assets/04/image115.jpg)            ![img](/assets/04/image116.jpg)
 
 图4-110                             图4-111       
 
 在预设的各种效果中进行预览选择，单击需要的一种效果。
 
-![img](/assets/04/../../第四章得心应手.files/image117.jpg)          ![img](/assets/04/../../第四章得心应手.files/image118.jpg)    
+![img](/assets/04/image117.jpg)          ![img](/assets/04/image118.jpg)    
 
 图4-112                               图4-113             
 
 单击“三维选项”，可以设置更多的参数。
 
-![img](/assets/04/../../第四章得心应手.files/image119.jpg)        ![img](/assets/04/../../第四章得心应手.files/image120.jpg)  
+![img](/assets/04/image119.jpg)        ![img](/assets/04/image120.jpg)  
 
 图4-114                           图4-115       
 
@@ -351,19 +351,19 @@ PPT预设了三种不同的阴影状态外部阴影、内部阴影、透视。
 
 选中文本，“绘图工具—格式”选项卡——>“文本效果”——>“转换”。
 
-![img](/assets/04/../../第四章得心应手.files/image121.jpg)       ![img](/assets/04/../../第四章得心应手.files/image122.jpg)
+![img](/assets/04/image121.jpg)       ![img](/assets/04/image122.jpg)
 
 图4-116                        图4-117  
 
 鼠标移至“转换”命令上。
 
-![img](/assets/04/../../第四章得心应手.files/image123.jpg)        ![img](/assets/04/../../第四章得心应手.files/image124.jpg)
+![img](/assets/04/image123.jpg)        ![img](/assets/04/image124.jpg)
 
 图4-118                      图4-119   
 
 有一些转换效果是可进行拉伸变换的，例如图4-120所示。拖动图中的拉伸按钮，就可以调整转换效果的位置与拉伸程度。
 
-![img](/assets/04/../../第四章得心应手.files/image125.jpg)
+![img](/assets/04/image125.jpg)
 
 图4-120
 
@@ -375,6 +375,6 @@ PPT预设了三种不同的阴影状态外部阴影、内部阴影、透视。
 
 可以直接在“绘图工具”选项卡的艺术字中进行清除。
 
-![img](/assets/04/../../第四章得心应手.files/image126.png)
+![img](/assets/04/image126.png)
 
 图4-121
