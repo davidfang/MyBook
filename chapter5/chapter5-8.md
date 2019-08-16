@@ -3,7 +3,7 @@ typora-copy-images-to: ..\assets\05
 typora-root-url: ..\assets\05
 ---
 
-#### **5.8**  **图片融入背景**
+## **5.8**  **图片融入背景**
 
 ![img](/../../第五章美轮美奂.files/image068.jpg)
 

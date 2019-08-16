@@ -1,6 +1,5 @@
 # PowerPoint设计小册
 
-* [Introduction](README.md)
 ## Part 1 基础篇
 * [第一章 相见恨晚 —— 认识PowerPoint 2013](chapter1/chapter1.md)
    * [1.1  我们需要正视它](chapter1/chapter1-1.md)
@@ -73,110 +72,110 @@
   * [5.7  图片的裁剪和抠图](chapter5/chapter5-7.md)
   * [5.8  图片融入背景](chapter5/chapter5-8.md)
   * [5.9  本章小结](chapter5/chapter5-9.md)
-* [第六章	特立独行 —— 图形](chapter1/chapter1.md)
-  * 6.1  SmartArt图形
-    * 6.1.1  创建SmartArt图形
-    * 6.1.2  美化SmartArt图形
-    * 6.1.3  调整SmartArt图形
-    * 6.1.4  SmartArt图形的转换	
-  * 6.2  图片与SmartArt混排
-  * 6.3  SmartArt的变形
-  * 6.4  图形规划板式
-  * 6.5  图形的基本使用
-  * 6.6  美化图形
-  * 6.7  本章小结
-* [第七章	清晰明了 —— 图表](chapter1/chapter1.md)
-  * 7.1  插入表格	
-  * 7.2  设置表格的默认样式	
-  * 7.3  设置表格的背景	
-  * 7.4  设置表格的边框
-  * 7.5  设置表格的特效
-  * 7.6  设置表格的大小
-  * 7.7  常用图表举例
-  * 7.8  使用图表
-  * 7.8  本章小结
-* [第八章	活灵活现 —— 动画](chapter1/chapter1.md)
-  * 8.1  插入动画
-  * 8.2  动画的5种类型
-  * 8.3  设置动画参数
-  * 8.3.1  “高级动画”工具栏
-  * 8.3.2  “计时”工具栏
-  * 8.4  动画设置示例
-  * 8.5  本章小结
-* [第九章	演示之道 —— 幻灯片放映](chapter1/chapter1.md)
-  * 9.1  播放与展示
-  * 9.2  压缩PPT体积
-  * 9.3  保留高版本的各种特效
-  * 9.4  演示助手
-  * 9.5  创建超链接
-  * 9.6  本章小结
-* [第十章	让PPT无处不在](chapter1/chapter1.md)
-  * 10.1  PPT云储存
-  * 10.2  本章小结
-* [第十一章	 管理你的PPT](chapter1/chapter1.md)
-  * 11.1  修改模式或添加密码	
-  * 11.2  保存PPT为 PDF、Flash、视频	
-  * 11.3  导出PPT为图片	
-  * 11.4  PPT打印
-  * 11.5  将PPT中页面独立发布
-  * 11.6  将PPT打包成CD
-  * 11.7  格式工厂
-  * 11.8  本章小结
+* [第六章	特立独行 —— 图形](chapter6/chapter6.md)
+  * [6.1  SmartArt图形](chapter6/chapter6-1.md)
+    * [6.1.1  创建SmartArt图形](chapter6/chapter6-1-1.md)
+    * [6.1.2  美化SmartArt图形](chapter6/chapter6-1-2.md)
+    * [6.1.3  调整SmartArt图形](chapter6/chapter6-1-3.md)
+    * [6.1.4  SmartArt图形的转换](chapter6/chapter6-1-4.md)	
+  * [6.2  图片与SmartArt混排](chapter6/chapter6-2.md)
+  * [6.3  SmartArt的变形](chapter6/chapter6-3.md)
+  * [6.4  图形规划板式](chapter6/chapter6-4.md)
+  * [6.5  图形的基本使用](chapter6/chapter6-5.md)
+  * [6.6  美化图形](chapter6/chapter6-6.md)
+  * [6.7  本章小结](chapter6/chapter6-7.md)
+* [第七章	清晰明了 —— 图表](chapter7/chapter7.md)
+  * [7.1  插入表格](chapter7/chapter7-1.md)	
+  * [7.2  设置表格的默认样式](chapter7/chapter7-2.md)	
+  * [7.3  设置表格的背景](chapter7/chapter7-3.md)	
+  * [7.4  设置表格的边框](chapter7/chapter7-4.md)
+  * [7.5  设置表格的特效](chapter7/chapter7-5.md)
+  * [7.6  设置表格的大小](chapter7/chapter7-6.md)
+  * [7.7  常用图表举例](chapter7/chapter7-7.md)
+  * [7.8  使用图表](chapter7/chapter7-8.md)
+  * [7.9  本章小结](chapter7/chapter7-9.md)
+* [第八章	活灵活现 —— 动画](chapter8/chapter8.md)
+  * [8.1  插入动画](chapter8/chapter8-1.md)
+  * [8.2  动画的5种类型](chapter8/chapter8-2.md)
+  * [8.3  设置动画参数](chapter8/chapter8-3.md)
+    * [8.3.1  “高级动画”工具栏](chapter8/chapter8-3-1.md)
+    * [8.3.2  “计时”工具栏](chapter8/chapter8-3-2.md)
+  * [8.4  动画设置示例](chapter8/chapter8-4.md)
+  * [8.5  本章小结](chapter8/chapter8-5.md)
+* [第九章	演示之道 —— 幻灯片放映](chapter9/chapter9.md)
+  * [9.1  播放与展示](chapter9/chapter9-1.md)
+  * [9.2  压缩PPT体积](chapter9/chapter9-2.md)
+  * [9.3  保留高版本的各种特效](chapter9/chapter9-3.md)
+  * [9.4  演示助手](chapter9/chapter9-4.md)
+  * [9.5  创建超链接](chapter9/chapter9-5.md)
+  * [9.6  本章小结](chapter9/chapter9-6.md)
+* [第十章	让PPT无处不在](chapter10/chapter10.md)
+  * [10.1  PPT云储存](chapter10/chapter10-1.md)
+  * [10.2  本章小结](chapter10/chapter10-2.md)
+* [第十一章	 管理你的PPT](chapter11/chapter11.md)
+  * [11.1  修改模式或添加密码](chapter11/chapter11-1.md)	
+  * [11.2  保存PPT为 PDF、Flash、视频](chapter11/chapter11-2.md)	
+  * [11.3  导出PPT为图片](chapter11/chapter11-3.md)	
+  * [11.4  PPT打印](chapter11/chapter11-4.md)
+  * [11.5  将PPT中页面独立发布](chapter11/chapter11-5.md)
+  * [11.6  将PPT打包成CD](chapter11/chapter11-6.md)
+  * [11.7  格式工厂](chapter11/chapter11-7.md)
+  * [11.8  本章小结](chapter11/chapter11-8.md)
 ## Part 3 高级篇
-* [第十二章	 PPT的三大原则](chapter1/chapter1.md)
-  * 12.1  统一
-  * 12.2  重复
-  * 12.3  简单
-  * 12.4  本章小结
-* [第十三章	 搜集资源](chapter1/chapter1.md)
-  * 13.1  字体
-  * 13.2  图片
-  * 13.3  图表
-  * 13.4  图标
-  * 13.5  模板搜集
-  * 13.6  本章小结
-* [第十四章	 让图形引导逻辑 —— 图形设计](chapter1/chapter1.md)
-  * 16.1  认识图形	
-  * 16.2  初识鼠绘	
-  * 16.3  线条的作用	
-  * 16.4  其他线条	
-  * 16.5  线条引导逻辑	
-  * 16.6  学会偷懒	
-  * 16.7  本章小结	
-* [第十五章	 PPT之神 —— 文字设计](chapter1/chapter1.md)
-  * 15.1  图文混排
-  * 15.2  具体示例——图文混排
-  * 15.3  高桥流	
-  * 15.4  文字云	
-  * 15.5  玻璃字	
-  * 15.6  发光字	
-  * 15.7  本章小结
-* [第十六章	 存在不只为了美 —— 图片设计](chapter1/chapter1.md)
-  * 16.1  模糊背景的处理	
-  * 16.2  抠图
-  * 16.3  图片的单反设计	
-  * 16.4  案例
-  * 16.5  图片的通道设计	
-  * 16.6  本章小结
-* [第十七章	 数据的创意展示 —— 图表设计](chapter1/chapter1.md)
-  * 17.1  利用SmartArt循环图创作图表	
-  * 17.2  利用流程箭头创作图表
-  * 17.3  数据焦点阐述
-  * 17.4  图表简单化	
-  * 17.5  不一样的图表
-  * 17.6  本章小结
-* [第十八章	 行云流水 —— 动画设计](chapter1/chapter1.md)
-  * 18.1  倒计时的效果                 
-  * 18.2  组合动画
-  * 18.3  本章小结
-* [第十九章	 声形结合——多媒体](chapter1/chapter1.md)
-  * 19.2  乐享不同
-  * 19.2  声音和视频	
-  * 19.3  声音的插入	
-  * 19.4  视频的插入	
-  * 19.5  搜集PPT
-  * 19.6  本章小结
-* [第二十章	 遥遥可期——成长之路](chapter1/chapter1.md)
-  * 20.1  成长
-  * 20.2  辅助工具
-  * 20.3  本章小结
+* [第十二章	PPT的三大原则](chapter12/chapter12.md)
+  * [12.1  统一](chapter12/chapter12-1.md)
+  * [12.2  重复](chapter12/chapter12-2.md)
+  * [12.3  简单](chapter12/chapter12-3.md)
+  * [12.4  本章小结](chapter12/chapter12-4.md)
+* [第十三章	搜集资源](chapter13/chapter13.md)
+  * [13.1  字体](chapter13/chapter13-1.md)
+  * [13.2  图片](chapter13/chapter13-2.md)
+  * [13.3  图标](chapter13/chapter13-3.md)
+  * [13.4  模板搜集](chapter13/chapter13-4.md)
+  * [13.5  本章小结](chapter13/chapter13-5.md)
+* [第十四章	让图形引导逻辑 —— 图形设计](chapter14/chapter14.md)
+  * [16.1  认识图形](chapter14/chapter14-1.md)	
+  * [16.2  初识鼠绘](chapter14/chapter14-2.md)	
+  * [16.3  线条的作用](chapter14/chapter14-3.md)	
+  * [16.4  其他线条](chapter14/chapter14-4.md)	
+  * [16.5  线条引导逻辑](chapter14/chapter14-5.md)	
+  * [16.6  学会偷懒](chapter14/chapter14-6.md)	
+  * [16.7  本章小结](chapter14/chapter14-7.md)	
+* [第十五章	PPT之神 —— 文字设计](chapter15/chapter15.md)
+  * [15.1  图文混排](chapter15/chapter15-1.md)
+  * [15.2  具体示例——图文混排](chapter15/chapter15-2.md)
+  * [15.3  高桥流](chapter15/chapter15-3.md)	
+  * [15.4  文字云](chapter15/chapter15-4.md)	
+  * [15.5  玻璃字](chapter15/chapter15-5.md)	
+  * [15.6  发光字](chapter15/chapter15-6.md)	
+  * [15.7  本章小结](chapter15/chapter15-7.md)
+* [第十六章	存在不只为了美 —— 图片设计](chapter16/chapter16.md)
+  * [16.1  模糊背景的处理](chapter16/chapter16-1.md)	
+  * [16.2  抠图](chapter16/chapter16-2.md)
+  * [16.3  图片的单反设计](chapter16/chapter16-3.md)	
+  * [16.4  案例](chapter16/chapter16-4.md)
+  * [16.5  图片的通道设计](chapter16/chapter16-5.md)	
+  * [16.6  本章小结](chapter16/chapter16-6.md)
+* [第十七章	数据的创意展示 —— 图表设计](chapter17/chapter17.md)
+  * [17.1  利用SmartArt循环图创作图表](chapter17/chapter17-1.md)	
+  * [17.2  利用流程箭头创作图表](chapter17/chapter17-2.md)
+  * [17.3  数据焦点阐述](chapter17/chapter17-3.md)
+  * [17.4  图表简单化](chapter17/chapter17-4.md)	
+  * [17.5  不一样的图表](chapter17/chapter17-5.md)
+  * [17.6  本章小结](chapter17/chapter17-6.md)
+* [第十八章	 行云流水 —— 动画设计](chapter18/chapter18.md)
+  * [18.1  倒计时的效果](chapter18/chapter18-1.md)                 
+  * [18.2  组合动画](chapter18/chapter18-2.md)
+  * [18.3  本章小结](chapter18/chapter18-3.md)
+* [第十九章	声形结合——多媒体](chapter19/chapter19.md)
+  * [19.1  乐享不同](chapter19/chapter19-1.md)
+  * [19.2  声音和视频](chapter19/chapter19-2.md)	
+  * [19.3  声音的插入](chapter19/chapter19-3.md)	
+  * [19.4  视频的插入](chapter19/chapter19-4.md)	
+  * [19.5  搜集PPT](chapter19/chapter19-5.md)
+  * [19.6  本章小结](chapter19/chapter19-6.md)
+* [第二十章	遥遥可期——成长之路](chapter20/chapter20.md)
+  * [20.1  成长](chapter20/chapter20-1.md)
+  * [20.2  辅助工具](chapter20/chapter20-2.md)
+  * [20.3  本章小结](chapter20/chapter20-3.md)
+
