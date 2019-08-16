@@ -11,7 +11,7 @@ typora-root-url: ..\assets\09
 
 将需要保存的幻灯片选中，使用Ctrl+C复制，然后再使用Ctrl+Alt+V进行选择性粘贴，根据需要将内容粘贴成为图片进行保存。若需要对单个元素进行保存，方法步骤是一样的。
 
-![img](/../../第九章演示之道.files/image018.jpg)
+![img](/assets/09/image018.jpg)
 
 图9-18
 
@@ -27,6 +27,6 @@ typora-root-url: ..\assets\09
 
 插入一个SmartArt图形，设置好需要的特效，使用Ctrl+X剪切整个SmartArt图形，再使用Ctrl+Alt+V进行选择性粘贴，将SmartArt图形保存为“图片（增强型图元文件）”，接下就是将SmartArt图形“取消组合”了。
 
-![img](/../../第九章演示之道.files/image019.jpg)
+![img](/assets/09/image019.jpg)
 
 图9-19

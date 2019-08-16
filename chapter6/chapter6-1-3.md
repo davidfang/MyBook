@@ -11,19 +11,19 @@ typora-root-url: ..\assets\06
 
 一般SmartArt图形都是从左向右，通过调整，选择“从右向左”命令，如图6-16所示。
 
-![img](/../../第六章特立独行.files/image090.jpg)
+![img](/assets/06/image090.jpg)
 
 图6-16
 
 还可以改变SmartArt图形各项元素的等级，随时调整思路和逻辑，如图6-17所示。
 
-![img](/../../第六章特立独行.files/image091.jpg)
+![img](/assets/06/image091.jpg)
 
 图6-17
 
 对已有的图形，在SmartArt图形中可以调整该图形所处的位置的，如图6-18所示。
 
-![img](/../../第六章特立独行.files/image092.jpg)
+![img](/assets/06/image092.jpg)
 
 图6-18
 
@@ -33,11 +33,11 @@ typora-root-url: ..\assets\06
 
 在“SmartArt工具”选项卡中，选择“设计”选项卡，在“创建图形”组中，我们可以选择“添加形状”命令，如图6-19所示，我们也可以直接选中图形，单击鼠标右键，选择“添加形状”，如图6-20所示。
 
-![img](/../../第六章特立独行.files/image093.png)         ![img](/../../第六章特立独行.files/image094.jpg)
+![img](/assets/06/image093.png)         ![img](/assets/06/image094.jpg)
 
   图6-19                    图6-20
 
-![img](/../../第六章特立独行.files/image095.jpg)
+![img](/assets/06/image095.jpg)
 
 图6-21
 
@@ -45,7 +45,7 @@ typora-root-url: ..\assets\06
 
 同样地，有增加的需要必有减少的需要，当我们需要减少图形中的元素时，可以直接选中该元素，按Backspace或Delete键都可以实现删除元素，删除元素后，其余元素将自动的调整大小，如图6-22所示。
 
-![img](/../../第六章特立独行.files/image096.jpg)
+![img](/assets/06/image096.jpg)
 
 图6-22
 
@@ -57,7 +57,7 @@ SmartArt图形相对比于普通图形最大的不同是，图形时有联系的
 
 选中SmartArt图形中的某个图形，调节该图形的调节按钮，将该图形放大或缩小，我们会发现在调整过程中，别的图形也在变大或缩小，如图6-23和图6-24所示。
 
-![img](/../../第六章特立独行.files/image097.jpg)   ![img](/../../第六章特立独行.files/image098.jpg)
+![img](/assets/06/image097.jpg)   ![img](/assets/06/image098.jpg)
 
 ​                 图6-23                                   图6-24       
 
@@ -67,13 +67,13 @@ SmartArt图形相对比于普通图形最大的不同是，图形时有联系的
 
 选中图形后，拉伸图形旁的调节按钮，将可以整体的调节SmartArt图形里的所有图形。
 
-![img](/../../第六章特立独行.files/image099.jpg)
+![img](/assets/06/image099.jpg)
 
 图6-24
 
 例如我们拖动右上角的拉伸按钮，能得到如图6-25所示的结果。
 
-![img](/../../第六章特立独行.files/image100.jpg)
+![img](/assets/06/image100.jpg)
 
 图6-25
 
@@ -81,7 +81,7 @@ SmartArt图形相对比于普通图形最大的不同是，图形时有联系的
 
 当我们需要图形按照等比例缩放时，我们可以同时按下“Ctrl+shift”，然后进行拉伸。
 
-![img](/../../第六章特立独行.files/image101.jpg)
+![img](/assets/06/image101.jpg)
 
 图6-26
 

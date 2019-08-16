@@ -11,21 +11,21 @@ typora-root-url: ..\assets\06
 
 首先我们需要插入一个SmartArt图形，在选中SmartArt图形后，功能区会出现“SMARTART工具”选项卡，其中包含有两个子选项卡，分别是“设计”和“格式”，单击“设计”选项卡，选择“更改颜色”命令，如图6-7。
 
-![img](/../../第六章特立独行.files/image081.png)
+![img](/assets/06/image081.png)
 
 图6-7
 
-![img](/../../第六章特立独行.files/image082.jpg)
+![img](/assets/06/image082.jpg)
 
 图6-8
 
 在弹出的对话框中，预设各种主题色的填充效果，可先进行预览，然后一键进行填充。
 
-![img](/../../第六章特立独行.files/image083.jpg)
+![img](/assets/06/image083.jpg)
 
 图6-9
 
-![img](/../../第六章特立独行.files/image084.jpg)
+![img](/assets/06/image084.jpg)
 
 图6-10
 
@@ -39,13 +39,13 @@ typora-root-url: ..\assets\06
 
 样式库中为图形提供了二维和三维两种类型的样式，如图6-11。
 
-![img](/../../第六章特立独行.files/image085.jpg)
+![img](/assets/06/image085.jpg)
 
 图6-11
 
 效果如图6-12所示。
 
-![img](/../../第六章特立独行.files/image086.jpg)
+![img](/assets/06/image086.jpg)
 
 图6-12
 
@@ -55,17 +55,17 @@ typora-root-url: ..\assets\06
 
 首先，我们需要选中SmartArt图形中的一个形状或对个对象，对于较多对象的选取，按住Ctrl键，单击需要选中的对象，可实现连续选中。
 
-![img](/../../第六章特立独行.files/image087.jpg)
+![img](/assets/06/image087.jpg)
 
 图6-13
 
 在“SmartArt工具”选项卡中，选择“格式”选项卡，更改颜色可以在“形状样式”和“形状填充”上更改，如图6-14所示，在“形状样式”中可以设置PowerPoint的预设颜色效果，在“形状填充”中可以自由的改变形状的颜色。如图6-15所示为形状样式下拉选项。
 
-![img](/../../第六章特立独行.files/image088.jpg)
+![img](/assets/06/image088.jpg)
 
 图6-14
 
-![img](/../../第六章特立独行.files/image089.jpg)
+![img](/assets/06/image089.jpg)
 
 图6-15
 

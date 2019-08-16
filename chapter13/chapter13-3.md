@@ -15,7 +15,7 @@ typora-root-url: ..\assets\13
 
 免费图标下载，高清尺寸，规模极其庞大，同时质量也是很有保障。
 
-![img](/../../第十三章%20搜集资源.files/image026.jpg)
+![img](/assets/13/image026.jpg)
 
 图12-26
 
@@ -23,7 +23,7 @@ typora-root-url: ..\assets\13
 
 众多免费的图标下载，多数图标具有一定的艺术风格，当然，如你需要更为专业的图标文件也可以进入网站进行购买。
 
-![img](/../../第十三章%20搜集资源.files/image027.jpg)
+![img](/assets/13/image027.jpg)
 
 图12-27
 
@@ -31,7 +31,7 @@ typora-root-url: ..\assets\13
 
 图标数量极其之多，近十万个图标免费提供下载，更让人值得称赞是，网站提供有上千个图标系列，这样图标也能统一风了。
 
-![img](/../../第十三章%20搜集资源.files/image028.jpg)
+![img](/assets/13/image028.jpg)
 
 图12-28
 
@@ -39,6 +39,6 @@ typora-root-url: ..\assets\13
 
 免费提供下载，图标非常精美。
 
-![img](/../../第十三章%20搜集资源.files/image029.jpg)
+![img](/assets/13/image029.jpg)
 
 图12-29

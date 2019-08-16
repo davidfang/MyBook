@@ -17,23 +17,23 @@ typora-root-url: ..\assets\11
 
 选择需要转换格式的PPT源文件，可设置在文件夹中以缩略图的形式查看。
 
-![img](/../../第十一章%20管理你的PPT.files/image001.jpg)
+![img](/assets/11/image001.jpg)
 
 图11-1
 
 双击打开PPT源文件，单击“文件”选项卡，在新界面中选择“导出”，或者单击“另存为”，保存为.ppsx文件。
 
-![img](/../../第十一章%20管理你的PPT.files/image002.jpg)
+![img](/assets/11/image002.jpg)
 
 图11-2
 
-![img](/../../第十一章%20管理你的PPT.files/image003.png)
+![img](/assets/11/image003.png)
 
 图11-3
 
 保存好文件，如图11-4所示，后缀名变为.ppsx，双击该文档，PPT将自动全屏播放。
 
-![img](/../../第十一章%20管理你的PPT.files/image004.jpg)
+![img](/assets/11/image004.jpg)
 
 图11-4
 
@@ -43,7 +43,7 @@ typora-root-url: ..\assets\11
 
 若发现自己电脑无法显示文件的后缀名，那是因为没有对“文件管理器”进行设置。在“查看”中，勾选上“文件扩展名”，即可看到文件的后缀名，并可对其进行修改。
 
-![img](/../../第十一章%20管理你的PPT.files/image005.jpg)
+![img](/assets/11/image005.jpg)
 
 图11-4
 
@@ -53,7 +53,7 @@ typora-root-url: ..\assets\11
 
 打开PowerPoint，单击“文件”选项卡中选择“打开”，然后直接打开.pps或者.ppsx文件，想怎么编辑就怎么编辑，编辑完后进行保存，接下来，使用者即可将文件另存为任意格式了。
 
-![img](/../../第十一章%20管理你的PPT.files/image006.jpg)
+![img](/assets/11/image006.jpg)
 
 图11-5
 
@@ -67,7 +67,7 @@ typora-root-url: ..\assets\11
 
 单击“文件”选项卡，再选择“另存为”选项。
 
-![img](/../../第十一章%20管理你的PPT.files/image007.jpg)
+![img](/assets/11/image007.jpg)
 
 图11-6
 
@@ -75,13 +75,13 @@ typora-root-url: ..\assets\11
 
  
 
-![img](/../../第十一章%20管理你的PPT.files/image008.jpg)
+![img](/assets/11/image008.jpg)
 
 图11-7
 
 弹出如图11-7所示对话框，用户在此输入“打开权限密码”或“修改权限密码”。完成后单击确定。
 
-![img](/../../第十一章%20管理你的PPT.files/image009.jpg)
+![img](/assets/11/image009.jpg)
 
 图11-8
 
@@ -89,13 +89,13 @@ typora-root-url: ..\assets\11
 
 若保存格式为.pps的PPT，即使设置了密码，双击打开时也会自动开始播放。
 
-![img](/../../第十一章%20管理你的PPT.files/image010.jpg)
+![img](/assets/11/image010.jpg)
 
 图11-9
 
 只读打开的PPT，不能做任何修改，所有的元素对象不能移动，不能复制、增添，不能粘贴、也不能进行保存。但是这种模式下可以查看任何信息，包括动画效果。
 
-![img](/../../第十一章%20管理你的PPT.files/image011.jpg)
+![img](/assets/11/image011.jpg)
 
 图11-10
 

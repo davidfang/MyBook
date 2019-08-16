@@ -9,25 +9,25 @@ typora-root-url: ..\assets\07
 
 表格特效包括三种特效：单元格凹凸效果、阴影、映像。其中只有“单元格凹凸效果”能单独对单元格设置，其它两种效果均只对表格整体起作用。
 
-![img](/../../第七章清晰明了.files/image068.png)
+![img](/assets/07/image068.png)
 
 图7-64
 
 普通表格                 不同的凹凸效果           表头的凹凸效果        
 
-![img](/../../第七章清晰明了.files/image069.png)    ![img](/../../第七章清晰明了.files/image070.png)    ![img](/../../第七章清晰明了.files/image071.png)
+![img](/assets/07/image069.png)    ![img](/assets/07/image070.png)    ![img](/assets/07/image071.png)
 
 图7-65                   图7-66                    图7-67       
 
 外阴影                   内部阴影                    透视  
 
-![img](/../../第七章清晰明了.files/image072.jpg)    ![img](/../../第七章清晰明了.files/image073.png)    ![img](/../../第七章清晰明了.files/image074.jpg)
+![img](/assets/07/image072.jpg)    ![img](/assets/07/image073.png)    ![img](/assets/07/image074.jpg)
 
 图7-68                   图7-69                   图7-69 
 
 映像，紧密相连，接触       紧密相连，4 pt偏移量       紧密相连，8 pt偏移量                                      
 
-![img](/../../第七章清晰明了.files/image075.jpg)    ![img](/../../第七章清晰明了.files/image076.jpg)     ![img](/../../第七章清晰明了.files/image077.jpg)
+![img](/assets/07/image075.jpg)    ![img](/assets/07/image076.jpg)     ![img](/assets/07/image077.jpg)
 
 图7-69                   图7-70                    图7-71   
 
@@ -37,7 +37,7 @@ typora-root-url: ..\assets\07
 
 特效本身就是一种吸引人眼球的效果，所以设置了特效的单元格一定是表格中的聚焦点，这也说明了一个问题，那就是特效不用使用在每个单元格中，例如，想要强调表头上的文字，或者注意到总结行上的数据，那我们就可以这样设置。
 
-![img](/../../第七章清晰明了.files/image078.png)    ![img](/../../第七章清晰明了.files/image079.png)
+![img](/assets/07/image078.png)    ![img](/assets/07/image079.png)
 
 图7-72                                   图7-73  
 
@@ -47,25 +47,25 @@ typora-root-url: ..\assets\07
 
 内容加粗显示。
 
-![img](/../../第七章清晰明了.files/image080.png)
+![img](/assets/07/image080.png)
 
 图7-73
 
 内容增大显示。
 
-![img](/../../第七章清晰明了.files/image081.png)
+![img](/assets/07/image081.png)
 
 图7-74
 
 内容变色显示。
 
-![img](/../../第七章清晰明了.files/image082.png)
+![img](/assets/07/image082.png)
 
 图7-75
 
 **小技巧——快速制作质感背景**
 
-![img](/../../第七章清晰明了.files/image083.jpg)
+![img](/assets/07/image083.jpg)
 
 图7-76
 
@@ -75,18 +75,18 @@ typora-root-url: ..\assets\07
 
 然后在“单元格凹凸效果”中选择“松散嵌入”，如图7-77所示，效果如图7-78所示。
 
-![img](/../../第七章清晰明了.files/image084.jpg)   ![img](/../../第七章清晰明了.files/image085.jpg)
+![img](/assets/07/image084.jpg)   ![img](/assets/07/image085.jpg)
 
 图7-77                             图7-78        
 
 在“阴影”中的内部阴影中选择“内部居中”阴影，如图7-79所示，但这样的设计效果还是很不明显，细节处完全看不出来阴影效果，如图7-80所示。
 
-![img](/../../第七章清晰明了.files/image086.jpg)    ![img](/../../第七章清晰明了.files/image087.jpg)
+![img](/assets/07/image086.jpg)    ![img](/assets/07/image087.jpg)
 
 图7-79                            图7-80                 
 
 如何做出图7-76所示的效果，重点就在于加大阴影效果，让阴影在表格中出现的范围大一些，这样的背景的细节就出来了，也能制造出一种严肃的效果。在选择阴影后的下拉菜单下方选择“阴影选项”，在弹出来的“设置形状格式”窗格中，设置阴影“模糊”大小，如图7-81所示。
 
-![img](/../../第七章清晰明了.files/image088.png)    ![img](/../../第七章清晰明了.files/image089.jpg)
+![img](/assets/07/image088.png)    ![img](/assets/07/image089.jpg)
 
 图7-81                                图7-82 

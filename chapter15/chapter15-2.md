@@ -13,13 +13,13 @@ typora-root-url: ..\assets\15
 
 如图15-27所示为竖直型文本。
 
-![img](/../../第十五章%20PPT之神.files/image027.jpg)
+![img](/assets/15/image027.jpg)
 
 图15-27
 
 水平型。
 
-![img](/../../第十五章%20PPT之神.files/image028.jpg)
+![img](/assets/15/image028.jpg)
 
 图15-28
 
@@ -31,20 +31,20 @@ typora-root-url: ..\assets\15
 
 如图15-29所示，图片的整体色彩偏暗，若是单纯的将黑色的字体放在图片上，有很大可能是图片颜色对文字造成干扰的，加入一个半透明的色块既不让图片上的文字显得突兀，同时又能体现出一些设计感。
 
-![img](/../../第十五章%20PPT之神.files/image029.jpg)
+![img](/assets/15/image029.jpg)
 
 图15-29
 
-![img](/../../第十五章%20PPT之神.files/image030.jpg)
+![img](/assets/15/image030.jpg)
 
 图15-30
 
 除了图形的色块透明化处理，另外一种图形也运用得非常之多，那就是线条，不得不说线条是个万能引导的线索，有它在能够起着平衡画面和划清层次的作用。
 
-![img](/../../第十五章%20PPT之神.files/image031.jpg)
+![img](/assets/15/image031.jpg)
 
 图15-31
 
-![img](/../../第十五章%20PPT之神.files/image032.jpg)
+![img](/assets/15/image032.jpg)
 
 图15-32

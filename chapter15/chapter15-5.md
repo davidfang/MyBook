@@ -5,7 +5,7 @@ typora-root-url: ..\assets\15
 
 ## **15.5**  **玻璃字**
 
-![img](/../../第十五章%20PPT之神.files/image068.jpg)
+![img](/assets/15/image068.jpg)
 
 图15-67
 
@@ -13,36 +13,36 @@ typora-root-url: ..\assets\15
 
 首先，在“插入”选项卡中单击“图片”，选择插入一张图片。
 
-![img](/../../第十五章%20PPT之神.files/image069.jpg)  ![img](/../../第十五章%20PPT之神.files/image070.jpg)
+![img](/assets/15/image069.jpg)  ![img](/assets/15/image070.jpg)
 
 图15-68                                  图15-69           
 
 插入一个文本框，输入需要的文本内容，选择好字体，覆盖在图片上。
 
-![img](/../../第十五章%20PPT之神.files/image071.jpg)
+![img](/assets/15/image071.jpg)
 
 图15-70
 
 先选择图片，然后选择文字，使用合并形状中拆分功能，将拆分后文字多余的部分全部删除，只留下需要的文字。
 
-![img](/../../第十五章%20PPT之神.files/image072.jpg)
+![img](/assets/15/image072.jpg)
 
 图15-71
 
 拆分后一些文字的笔画是散开的，这时候需要将这些文字笔画组合起来，然后选中所有文字，在“图片工具/格式”中的“图片效果”中选择“预设——预设10”，
 
-![img](/../../第十五章%20PPT之神.files/image073.jpg)
+![img](/assets/15/image073.jpg)
 
 图15-72
 
 调整字号大小，玻璃质感的字体就瞬间完成了。
 
-![img](/../../第十五章%20PPT之神.files/image074.jpg)
+![img](/assets/15/image074.jpg)
 
 图15-73
 
 数字也是一样的设置过程，效果是一样的。
 
-![img](/../../第十五章%20PPT之神.files/image075.jpg)
+![img](/assets/15/image075.jpg)
 
 图15-74

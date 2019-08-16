@@ -9,7 +9,7 @@ typora-root-url: ..\assets\14
 
 例如，可以用箭头实线时间轴的设计。
 
-![img](/../../第十四章%20让图形引导逻辑.files/image064.jpg)
+![img](/assets/14/image064.jpg)
 
 图14-59
 
@@ -17,7 +17,7 @@ typora-root-url: ..\assets\14
 
 同样地，通过线条的导引，能够引导一步一步的步骤的实行，例如从1到4等等。如图14-60所示。
 
-![img](/../../第十四章%20让图形引导逻辑.files/image065.jpg)
+![img](/assets/14/image065.jpg)
 
 图14-60
 
@@ -25,6 +25,6 @@ typora-root-url: ..\assets\14
 
 另外，除了使用直线来引导逻辑，还能使用箭头这种更具导向性的线段来修饰整个版面，如图14-61所示。
 
-![img](/../../第十四章%20让图形引导逻辑.files/image066.jpg)
+![img](/assets/14/image066.jpg)
 
 图14-61

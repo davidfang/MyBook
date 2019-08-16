@@ -7,7 +7,7 @@ typora-root-url: ..\assets\07
 
 设置表格样式能够快速的将表格美化，和图形样式一样是多种效果的集合，能帮助我们应付很多的一般场合，并且效果令人满意，所以我们需要了解它，从而去应用它。
 
-![img](/../../第七章清晰明了.files/image012.png)
+![img](/assets/07/image012.png)
 
 图7-11
 
@@ -17,30 +17,30 @@ typora-root-url: ..\assets\07
 
 原始表格
 
-![img](/../../第七章清晰明了.files/image013.jpg)
+![img](/assets/07/image013.jpg)
 
 图7-12
 
 在“表格样式”中选择一种样式，然后在“表格样式选项”只勾选“标题行”。
 
-![img](/../../第七章清晰明了.files/image014.jpg)
+![img](/assets/07/image014.jpg)
 
 图7-13
 
 勾选“标题行”、“第一列”。
 
-![img](/../../第七章清晰明了.files/image015.jpg)
+![img](/assets/07/image015.jpg)
 
 图7-14
 
 勾选“标题行”、“第一列”和“镶边行”。
 
-![img](/../../第七章清晰明了.files/image016.jpg)
+![img](/assets/07/image016.jpg)
 
 图7-15
 
 勾选“标题行”、“汇总行”和“镶边列”。
 
-![img](/../../第七章清晰明了.files/image017.jpg)
+![img](/assets/07/image017.jpg)
 
 图7-16

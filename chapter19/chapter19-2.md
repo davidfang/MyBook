@@ -7,13 +7,13 @@ typora-root-url: ..\assets\19
 
 常见的声音格式有MP3、WAV、MIDI、CDA等等，如图19-2所示。
 
-![img](/../../第十九章%20声形结合.files/image002.jpg)
+![img](/assets/19/image002.jpg)
 
 图19-2
 
 常见的视频格式有AVI、MPG、ASF、GIF和Flash等，如图19-3所示。
 
-![img](/../../第十九章%20声形结合.files/image003.jpg)
+![img](/assets/19/image003.jpg)
 
 图19-3
 

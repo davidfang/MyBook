@@ -9,19 +9,19 @@ typora-root-url: ..\assets\11
 
 在“文件”选项卡中选择“导出”，选择“将文件打包成CD”。
 
-![img](/../../第十一章%20管理你的PPT.files/image035.jpg)
+![img](/assets/11/image035.jpg)
 
 图11-33
 
 单击“打包成CD”。
 
-![img](/../../第十一章%20管理你的PPT.files/image036.jpg)
+![img](/assets/11/image036.jpg)
 
 图11-34
 
 单击“复制到CD”按钮，出现如图11-35所示对话框，单击“是”。
 
-![img](/../../第十一章%20管理你的PPT.files/image037.jpg)
+![img](/assets/11/image037.jpg)
 
 图11-35
 

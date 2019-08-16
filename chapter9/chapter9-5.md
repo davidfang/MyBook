@@ -11,21 +11,21 @@ typora-root-url: ..\assets\09
 
 我们在平时其实对超链接就不陌生，网页就会有大量的超链接。
 
-![img](/../../第九章演示之道.files/image023.jpg)
+![img](/assets/09/image023.jpg)
 
 图9-23
 
-![img](/../../第九章演示之道.files/image024.jpg)
+![img](/assets/09/image024.jpg)
 
 图9-24
 
 PPT中的超链接和网页中的超链接其实是非常相似的。
 
-![img](/../../第九章演示之道.files/image025.jpg)
+![img](/assets/09/image025.jpg)
 
 图9-24
 
-![img](/../../第九章演示之道.files/image026.jpg)
+![img](/assets/09/image026.jpg)
 
 图9-25
 
@@ -39,29 +39,29 @@ PPT中的超链接和网页中的超链接其实是非常相似的。
 
 选中需要插入超链接的元素，在“插入”选项卡下选择“超链接”，弹出的窗格默认的是链接到文件外，可以选择链接到本地文件，或者是在线网页，可以底侧地址栏输入要链接的文件位置或者是网址。
 
-![img](/../../第九章演示之道.files/image027.jpg)
+![img](/assets/09/image027.jpg)
 
 图9-26
 
 链接到文件内，选择链接到本文档中的位置，然后选择你想要跳转的幻灯片。
 
-![img](/../../第九章演示之道.files/image028.jpg)
+![img](/assets/09/image028.jpg)
 
 图9-27
 
 在设置超链接时，还可以设置屏幕提示，超链接中的屏幕提示是指当鼠标移动到此超链接上时，会出现与此链接相关的提示信息，而这些信息是可以根据具体情况进行设置的，对于非文本超链接的其他对象来说，屏幕提示也是很有帮助的。
 
-![img](/../../第九章演示之道.files/image029.jpg)
+![img](/assets/09/image029.jpg)
 
 图9-28
 
-![img](/../../第九章演示之道.files/image030.jpg)
+![img](/assets/09/image030.jpg)
 
 图9-29
 
 超链接还可以使用在导航栏中，例如如图9-30所示的效果。
 
-![img](/../../第九章演示之道.files/image031.jpg)
+![img](/assets/09/image031.jpg)
 
 图9-30
 
@@ -69,31 +69,31 @@ PPT中的超链接和网页中的超链接其实是非常相似的。
 
 例如我们像如下图所示，创建一个完整的目录超链接。
 
-![img](/../../第九章演示之道.files/image032.jpg)    ![img](/../../第九章演示之道.files/image033.jpg)
+![img](/assets/09/image032.jpg)    ![img](/assets/09/image033.jpg)
 
 图9-31                        图9-32 
 
-![img](/../../第九章演示之道.files/image034.jpg)![img](/../../第九章演示之道.files/image035.jpg)![img](/../../第九章演示之道.files/image036.jpg)
+![img](/assets/09/image034.jpg)![img](/assets/09/image035.jpg)![img](/assets/09/image036.jpg)
 
 图9-33                        图9-34                     图9-35        
 
-![img](/../../第九章演示之道.files/image032.jpg)     ![img](/../../第九章演示之道.files/image037.jpg)
+![img](/assets/09/image032.jpg)     ![img](/assets/09/image037.jpg)
 
 图9-36                         图9-37   
 
-![img](/../../第九章演示之道.files/image038.jpg)     ![img](/../../第九章演示之道.files/image039.jpg)
+![img](/assets/09/image038.jpg)     ![img](/assets/09/image039.jpg)
 
 图9-38                           图9-39
 
-![img](/../../第九章演示之道.files/image032.jpg)    ![img](/../../第九章演示之道.files/image040.jpg)
+![img](/assets/09/image032.jpg)    ![img](/assets/09/image040.jpg)
 
 图9-40                           图9-41   
 
-![img](/../../第九章演示之道.files/image041.jpg)    ![img](/../../第九章演示之道.files/image042.jpg)
+![img](/assets/09/image041.jpg)    ![img](/assets/09/image042.jpg)
 
 图9-42                       图9-43  
 
-![img](/../../第九章演示之道.files/image043.jpg)    ![img](/../../第九章演示之道.files/image044.jpg)
+![img](/assets/09/image043.jpg)    ![img](/assets/09/image044.jpg)
 
 ​               图9-44                     图9-45
 
@@ -107,7 +107,7 @@ PPT中为用户提供了12种不同的动作按钮，并且预设了相应的功
 
 一般的我们经常使用图9-46所示的四种动作按钮。
 
-![img](/../../第九章演示之道.files/image045.jpg)
+![img](/assets/09/image045.jpg)
 
 图9-46
 
@@ -117,6 +117,6 @@ PPT中为用户提供了12种不同的动作按钮，并且预设了相应的功
 
 动作和超链接类似，不过插入动作有“鼠标悬停”时的效果，可以为“动作”按钮添加声音、突出显示效果。
 
-![img](/../../第九章演示之道.files/image046.jpg)
+![img](/assets/09/image046.jpg)
 
 图9-46

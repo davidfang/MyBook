@@ -19,19 +19,19 @@ PowerPoint 2013中已经提供了PPT转PDF的功能，不需要其他的软件�
 
 其一，单击“文件”选项卡，单击“另存为”，选择好存储位置。
 
-![img](/../../第十一章%20管理你的PPT.files/image012.jpg)
+![img](/assets/11/image012.jpg)
 
 图11-11
 
 在弹出来的对话框中选择保存为PDF格式文档。
 
-![img](/../../第十一章%20管理你的PPT.files/image013.png)
+![img](/assets/11/image013.png)
 
 图11-12
 
 也可以在“文件”选项卡中单击“导出”，选择“创建PDF/XPS文档”，直接单击进行转换。
 
-![img](/../../第十一章%20管理你的PPT.files/image014.jpg)
+![img](/assets/11/image014.jpg)
 
 图11-13
 
@@ -39,11 +39,11 @@ PPT转换为PDF格式后，排版内容基本不会发生改变，PPT中所有�
 
 PPT转换效果示意。
 
-![img](/../../第十一章%20管理你的PPT.files/image015.jpg)
+![img](/assets/11/image015.jpg)
 
 图11-14
 
-![img](/../../第十一章%20管理你的PPT.files/image016.jpg)
+![img](/assets/11/image016.jpg)
 
 图11-15
 
@@ -55,7 +55,7 @@ PPT转换效果示意。
 
 iSpring是一款付费软件，但是它提供了iSpring Free版，不过这已经可以满足我们的大部分需求了。
 
-![img](/../../第十一章%20管理你的PPT.files/image017.jpg)
+![img](/assets/11/image017.jpg)
 
 图11-16
 
@@ -65,7 +65,7 @@ iSpring是一款付费软件，但是它提供了iSpring Free版，不过这已�
 
 插件使用非常简单，打开PPT文件，在iSpring功能选项区单击Publish图标，对参数进行设置和修改。
 
-![img](/../../第十一章%20管理你的PPT.files/image018.jpg)
+![img](/assets/11/image018.jpg)
 
 图11-16
 
@@ -101,7 +101,7 @@ PowerPoint 2007版或以前的版本不能将PPT直接保存为视频，需要�
 
 安装好此软件后，打开软件，会发现软件界面非常简单，将所有必要的参数都已经显示在了界面上，只需要根据自己的需要就可以开始转换格式了。
 
-![img](/../../第十一章%20管理你的PPT.files/image019.jpg)
+![img](/assets/11/image019.jpg)
 
 图11-17
 
@@ -125,7 +125,7 @@ PowerPoint 2007版或以前的版本不能将PPT直接保存为视频，需要�
 
 如今PowerPoint 2013就已经可以直接实现视频的转换功能。在“文件”选项卡里选择“导出”，选择“导出视频”命令。
 
-![img](/../../第十一章%20管理你的PPT.files/image020.jpg)
+![img](/assets/11/image020.jpg)
 
 图11-18
 
@@ -139,6 +139,6 @@ PowerPoint 2007版或以前的版本不能将PPT直接保存为视频，需要�
 
 同样地，在“另存为”命令中，我们也可以选择将PPT转存为视频格式。
 
-![img](/../../第十一章%20管理你的PPT.files/image021.jpg)
+![img](/assets/11/image021.jpg)
 
 图11-19

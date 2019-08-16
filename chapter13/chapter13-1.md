@@ -15,11 +15,11 @@ typora-root-url: ..\assets\13
 
 图13-1所示为衬线字体的特点，图13-2所示为常见的衬线字体。
 
-![img](/../../第十三章%20搜集资源.files/image001.jpg)
+![img](/assets/13/image001.jpg)
 
 图13-1
 
-![img](/../../第十三章%20搜集资源.files/image002.jpg)
+![img](/assets/13/image002.jpg)
 
 图13-2
 
@@ -27,11 +27,11 @@ typora-root-url: ..\assets\13
 
 图13-3所示为无衬线字体特点，图13-4所示为常见的无衬线字体。
 
-![img](/../../第十三章%20搜集资源.files/image003.jpg)
+![img](/assets/13/image003.jpg)
 
 图13-3
 
-![img](/../../第十三章%20搜集资源.files/image004.jpg)
+![img](/assets/13/image004.jpg)
 
 图13-4
 
@@ -77,13 +77,13 @@ typora-root-url: ..\assets\13
 
 如图13-5所示，三种字体的常见分类。艺术字和书法字特质很形似，书法字本身就带有艺术性，只不过书法字源自于书法，从广义上来说，书法字属于艺术字的范畴。
 
-![img](/../../第十三章%20搜集资源.files/image005.jpg)
+![img](/assets/13/image005.jpg)
 
 图13-5
 
 在PPT中使用文字，一般是作为标题或者正文内容，，但有一点需要注意的是，由于不同字体的特性所影响，标题可以使用笔画粗的字体，也可以使用艺术字体，标题还可以使用笔画细的字体，但是，需要阅读的正文部分不能使用笔画太粗的字体，笔画间有过渡的字体字号不宜缩至太小。
 
-![img](/../../第十三章%20搜集资源.files/image006.jpg)
+![img](/assets/13/image006.jpg)
 
 图13-6
 
@@ -129,7 +129,7 @@ typora-root-url: ..\assets\13
 
 在PPT中，数字往往会经过修饰，然后再放到PPT中进行展示，单单将数字摆放在版面上，若没有细节处的修饰，很容易造成细节处的丢失，既然已经放上了数字，那不妨将数字本身作为一种修饰，而不是用其他对象来修饰数字。
 
-![img](/../../第十三章%20搜集资源.files/image007.jpg)
+![img](/assets/13/image007.jpg)
 
 图13-7
 
@@ -139,25 +139,25 @@ typora-root-url: ..\assets\13
 
 **（1）A5字体下载  http://ziti.admin5.com/**
 
-![img](/../../第十三章%20搜集资源.files/image008.jpg)
+![img](/assets/13/image008.jpg)
 
 图13-8
 
 **（2）字体松鼠 http://www.fontsquirrel.com/（下载可商用）**
 
-![img](/../../第十三章%20搜集资源.files/image009.jpg)
+![img](/assets/13/image009.jpg)
 
 图13-9
 
 **（3）Fontex  http://www.fontex.org/（字体分类多，设计感强，下载可商用）**
 
-![img](/../../第十三章%20搜集资源.files/image010.jpg)
+![img](/assets/13/image010.jpg)
 
 图13-10
 
 **（4）Lost Type  http://www.losttype.com/browse/**
 
-![img](/../../第十三章%20搜集资源.files/image011.jpg)
+![img](/assets/13/image011.jpg)
 
 图13-11
 
@@ -165,13 +165,13 @@ typora-root-url: ..\assets\13
 
 **（5）我图网 http://so.ooopic.com/search-d7d6cce5-122-____0__ooo___.html**
 
-![img](/../../第十三章%20搜集资源.files/image012.jpg)
+![img](/assets/13/image012.jpg)
 
 图13-12
 
 **（6）优优素材网 http://www.yooyoo360.com/**
 
-![img](/../../第十三章%20搜集资源.files/image013.jpg)
+![img](/assets/13/image013.jpg)
 
 图13-13
 
@@ -181,7 +181,7 @@ typora-root-url: ..\assets\13
 
 **（7）求字体  http://www.qiuziti.com/**
 
-![img](/../../第十三章%20搜集资源.files/image014.jpg)
+![img](/assets/13/image014.jpg)
 
 图13-14
 

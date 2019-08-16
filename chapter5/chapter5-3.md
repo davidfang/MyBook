@@ -11,7 +11,7 @@ typora-root-url: ..\assets\05
 
 .jpg（或.jpeg）格式后缀我们称之为位图。位图是我们最常用的一种图片，网络资源丰富。其特点是，压缩率极高，节省存储空间。但是图片的精度固定，拉伸图片超出正常像素大小时会降低精度，导致投影模糊。
 
-![img](/../../第五章美轮美奂.files/image013.jpg)
+![img](/assets/05/image013.jpg)
 
 图 5-11
 
@@ -19,7 +19,7 @@ typora-root-url: ..\assets\05
 
 .PNG格式后缀的图片是一种较新的图像文件格式。PNG是无损高压缩比例的图像，清晰度高，并且背景一般是透明的，文件较小，这些优点让PNG在PPT中极受欢迎，放在PPT中充当点缀素材很形象，也极其好用。
 
-![img](/../../第五章美轮美奂.files/image014.jpg)
+![img](/assets/05/image014.jpg)
 
 图 5-12
 
@@ -41,7 +41,7 @@ AI图片是矢量图片的一种，EPS、WMF、CDR等格式同样也是矢量图
 
 “剪贴画”时期，大量缺乏美感并且与内容不符的图片泛滥，不是不需要使用，而是使用得当，找到好的素材再使用，若没有，也不能使用老版的剪贴画，这样会显得你的制作水平还停留在03年。
 
-![img](/../../第五章美轮美奂.files/image015.jpg)             ![img](/../../第五章美轮美奂.files/image016.jpg)
+![img](/assets/05/image015.jpg)             ![img](/assets/05/image016.jpg)
 
 图 5-13                                    图 5-14  
 
@@ -51,13 +51,13 @@ AI图片是矢量图片的一种，EPS、WMF、CDR等格式同样也是矢量图
 
 ① 打开文件夹，选择矢量图，选用Illustrator打开。
 
-![img](/../../第五章美轮美奂.files/image017.jpg)
+![img](/assets/05/image017.jpg)
 
 图 5-14
 
 ②   在出现的AI界面上，单击图片，使用Ctrl+C进行复制。
 
-![img](/../../第五章美轮美奂.files/image018.jpg)
+![img](/assets/05/image018.jpg)
 
 图 5-15
 
@@ -65,7 +65,7 @@ AI图片是矢量图片的一种，EPS、WMF、CDR等格式同样也是矢量图
 
 ③   切换到PPT中，直接使用Ctrl+V即可进行复制。
 
-![img](/../../第五章美轮美奂.files/image019.jpg)
+![img](/assets/05/image019.jpg)
 
 图 5-16
 

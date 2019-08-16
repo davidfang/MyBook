@@ -11,25 +11,25 @@ typora-root-url: ..\assets\07
 
 首先通过批量设置边框线，可以达到统一表格边框的效果，然后通过“绘制表格”和“橡皮擦”两个命令可以实现对表格的微调。
 
-![img](/../../第七章清晰明了.files/image050.png)
+![img](/assets/07/image050.png)
 
 图7-48
 
 我们对图7-49中的表格进行变形，看看表格的作用在哪里。
 
-![img](/../../第七章清晰明了.files/image051.png)
+![img](/assets/07/image051.png)
 
 图7-49
 
-![img](/../../第七章清晰明了.files/image052.png)
+![img](/assets/07/image052.png)
 
 图7-50
 
-![img](/../../第七章清晰明了.files/image053.png)
+![img](/assets/07/image053.png)
 
 图7-51
 
-![img](/../../第七章清晰明了.files/image054.png)
+![img](/assets/07/image054.png)
 
 图7-52
 
@@ -37,7 +37,7 @@ typora-root-url: ..\assets\07
 
 例如结合底纹和边框就可以设计出楼梯的效果，如图7-53所示。
 
-![img](/../../第七章清晰明了.files/image055.png)
+![img](/assets/07/image055.png)
 
 图7-53
 
@@ -45,72 +45,72 @@ typora-root-url: ..\assets\07
 
 如图7-54为普通表格。
 
-![img](/../../第七章清晰明了.files/image056.png)
+![img](/assets/07/image056.png)
 
 图7-54
 
 加粗边框线。
 
-![img](/../../第七章清晰明了.files/image057.png)
+![img](/assets/07/image057.png)
 
 图7-55
 
 增强表头单元格效果。
 
-![img](/../../第七章清晰明了.files/image058.png)
+![img](/assets/07/image058.png)
 
 图7-56
 
 弱化表格内框颜色。
 
-![img](/../../第七章清晰明了.files/image059.png)
+![img](/assets/07/image059.png)
 
 图7-57
 
 去掉左右边框线。
 
-![img](/../../第七章清晰明了.files/image060.png)
+![img](/assets/07/image060.png)
 
 图7-57
 
 改变表格框线的颜色。
 
-![img](/../../第七章清晰明了.files/image061.png)
+![img](/assets/07/image061.png)
 
 图7-58
 
 将表头颜色设置为不同颜色。
 
-![img](/../../第七章清晰明了.files/image062.png)
+![img](/assets/07/image062.png)
 
 图7-59
 
 给表头增加底色。
 
-![img](/../../第七章清晰明了.files/image063.png)
+![img](/assets/07/image063.png)
 
 图7-60
 
 改变线型为虚线。
 
-![img](/../../第七章清晰明了.files/image064.png)
+![img](/assets/07/image064.png)
 
 图7-61
 
 改变线型为虚点线。
 
-![img](/../../第七章清晰明了.files/image065.png)
+![img](/assets/07/image065.png)
 
 图7-62
 
 改变线型为点划线。
 
-![img](/../../第七章清晰明了.files/image066.png)
+![img](/assets/07/image066.png)
 
 图7-63
 
 去掉表头线。
 
-![img](/../../第七章清晰明了.files/image067.png)
+![img](/assets/07/image067.png)
 
 图7-63

@@ -17,11 +17,11 @@ typora-root-url: ..\assets\05
 
 重新着色：内置的图片处理方式，将图片重新设置。
 
-![img](/../../第五章美轮美奂.files/image029.jpg)
+![img](/assets/05/image029.jpg)
 
 图5-24
 
-![img](/../../第五章美轮美奂.files/image030.jpg)
+![img](/assets/05/image030.jpg)
 
 图5-25
 
@@ -29,19 +29,19 @@ typora-root-url: ..\assets\05
 
 通过设置锐化，可以弥补一些的图片的清晰度，让图片的表现力更强。
 
-![img](/../../第五章美轮美奂.files/image031.jpg)
+![img](/assets/05/image031.jpg)
 
 图5-26
 
 锐化后。
 
-![img](/../../第五章美轮美奂.files/image032.jpg)
+![img](/assets/05/image032.jpg)
 
 图5-27
 
 有时候，图片的亮度不够，和幻灯片的整体风格有出入，或者想让图片在投影时更清晰，那么这也可以通过PPT调整亮度。
 
-![img](/../../第五章美轮美奂.files/image033.jpg)
+![img](/assets/05/image033.jpg)
 
 图5-28
 

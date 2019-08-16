@@ -9,11 +9,11 @@ typora-root-url: ..\assets\03
 
 如图3-43所示，默认字体为“宋体”。进入母版视图，单击选中占位符，在“开始”中设置字体，将标题设置为“微软雅黑”，正文为“楷体”，退出母版视图，如图3-44所示。
 
-![img](/image055.png)
+![img](/assets/03/image055.png)
 
 <center>图3-43</center>
 
-![img](/image056.png)
+![img](/assets/03/image056.png)
 
 <center>图3-44</center>
 

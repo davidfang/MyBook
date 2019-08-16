@@ -11,13 +11,13 @@ typora-root-url: ..\assets\05
 
 在文件夹中选择我们需要的图片，选择图片，使用快捷键Ctrl+C。
 
-![img](/../../第五章美轮美奂.files/image020.jpg)
+![img](/assets/05/image020.jpg)
 
 图 5-17
 
 切换到PPT视图中，按下快捷键“Ctrl+V”，直接将图片粘贴到PPT中。
 
-![img](/../../第五章美轮美奂.files/image021.jpg)
+![img](/assets/05/image021.jpg)
 
 图 5-17
 
@@ -25,7 +25,7 @@ typora-root-url: ..\assets\05
 
 此方式非常快捷方便，有另外一种方式，也能让我们迅速的插入，那就是直接拖拽法。
 
-![img](/../../第五章美轮美奂.files/image022.jpg) ![img](/../../第五章美轮美奂.files/image023.jpg)
+![img](/assets/05/image022.jpg) ![img](/assets/05/image023.jpg)
 
 图 5-18                                   图 5-19
 
@@ -33,31 +33,31 @@ typora-root-url: ..\assets\05
 
 切换到PPT界面，“插入”选项卡à“图像”组à“相册”。
 
-![img](/../../第五章美轮美奂.files/image024.png)
+![img](/assets/05/image024.png)
 
 图 5-20
 
 单击“新建相册”，弹出一个对话框如图5-21所示，添加的相册内容可以是插入图片或文本。
 
-![img](/../../第五章美轮美奂.files/image025.jpg)
+![img](/assets/05/image025.jpg)
 
 图 5-21
 
 单击“文件/磁盘”，在文件夹中选择需要插入的图片。按住Ctrl可进行不连续选择。
 
-![img](/../../第五章美轮美奂.files/image026.jpg)
+![img](/assets/05/image026.jpg)
 
 图 5-21
 
 单击“插入”，图片不会直接插入到PPT中，中间还有一个处理的步骤，如图5-22，在此对话框中，我们可以对图片的顺序、方向进行调整，还能对图片本身的属性如对比度、亮度、显示模式进行设置。若图片颜色不属于一个风格，可以直接显示所有图片为黑白，一键统一风格。
 
-![img](/../../第五章美轮美奂.files/image027.jpg)
+![img](/assets/05/image027.jpg)
 
 图5-22
 
 当设置已经确认完成后，单击“创建”，即可得到统一图片大小的相册集。
 
-![img](/../../第五章美轮美奂.files/image028.jpg)
+![img](/assets/05/image028.jpg)
 
 图5-23
 

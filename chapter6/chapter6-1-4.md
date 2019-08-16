@@ -11,25 +11,25 @@ SmartArt图形可以很轻松的转换成普通形状、文本或者图片，这
 
 转换为图片
 
-![img](/../../第六章特立独行.files/image102.jpg)       ![img](/../../第六章特立独行.files/image103.jpg)
+![img](/assets/06/image102.jpg)       ![img](/assets/06/image103.jpg)
 
 图6-27                          图6-28     
 
 转换为文本
 
-![img](/../../第六章特立独行.files/image104.jpg)       ![img](/../../第六章特立独行.files/image105.jpg)
+![img](/assets/06/image104.jpg)       ![img](/assets/06/image105.jpg)
 
 图6-29                          图6-30       
 
 转换为形状
 
-![img](/../../第六章特立独行.files/image106.jpg)      ![img](/../../第六章特立独行.files/image107.jpg)
+![img](/assets/06/image106.jpg)      ![img](/assets/06/image107.jpg)
 
 图6-31                           图6-32         
 
 转换后，所有形状是以组合形式出现，若想方便的修改每一个形状，我们还需要取消组合，选中组合，单击右键，在菜单选项中选择“取消组合”
 
-![img](/../../第六章特立独行.files/image108.jpg)
+![img](/assets/06/image108.jpg)
 
 图6-33
 

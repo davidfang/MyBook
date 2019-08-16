@@ -5,7 +5,7 @@ typora-root-url: ..\assets\05
 
 ## **5.8**  **图片融入背景**
 
-![img](/../../第五章美轮美奂.files/image068.jpg)
+![img](/assets/05/image068.jpg)
 
 图5-61
 
@@ -13,7 +13,7 @@ typora-root-url: ..\assets\05
 
 如图5-62所示。
 
-![img](/../../第五章美轮美奂.files/image069.jpg)
+![img](/assets/05/image069.jpg)
 
 图5-62
 
@@ -21,13 +21,13 @@ typora-root-url: ..\assets\05
 
 首先我们插入图片，设置图片效果，单击右键选择“设置图片格式”，或在“图片工具-格式”选项卡中设置图片效果，进入图片格式设置的窗口，选择“柔化边缘”，参数如图5-63所示，效果如图5-64所示。
 
-![img](/../../第五章美轮美奂.files/image070.jpg)              ![img](/../../第五章美轮美奂.files/image071.jpg)
+![img](/assets/05/image070.jpg)              ![img](/assets/05/image071.jpg)
 
 图5-63                                     图5-64  
 
 加入文字内容，将文本框设置为置于顶层，将挡住图片的文字隔开，不需要将隔开的区域都非对其不可，别忘了你的文本已经设置过一个左对齐了，对于文本对齐来说已经够了。
 
-![img](/../../第五章美轮美奂.files/image072.jpg)
+![img](/assets/05/image072.jpg)
 
 图5-65
 
@@ -35,13 +35,13 @@ typora-root-url: ..\assets\05
 
 在“图片工具-格式”选项卡中选择“旋转”命令，在下拉选项卡中使用“水平旋转”命令。
 
-![img](/../../第五章美轮美奂.files/image073.png)
+![img](/assets/05/image073.png)
 
 图5-66
 
 最后我们得出最终效果图，如图5-67所示。
 
-![img](/../../第五章美轮美奂.files/image074.jpg)
+![img](/assets/05/image074.jpg)
 
 图5-67
 
@@ -49,7 +49,7 @@ typora-root-url: ..\assets\05
 
 实现效果如图5-68所示。
 
-![img](/../../第五章美轮美奂.files/image075.jpg)
+![img](/assets/05/image075.jpg)
 
 图5-68
 
@@ -57,7 +57,7 @@ typora-root-url: ..\assets\05
 
 我们首先进行一些简单的基础操作，将整个版式排版成如图5-69所示的样子。
 
-![img](/../../第五章美轮美奂.files/image076.jpg)
+![img](/assets/05/image076.jpg)
 
 图5-69
 
@@ -65,12 +65,12 @@ typora-root-url: ..\assets\05
 
 在设置完成版式后，我们需要加入插入一个矩形的色块，大小为中间色块的长度。对色块设置线性渐变，线性向右，角度为0°，设置两个光圈，颜色和版式中间色块的颜色相同，对第一个色块设置100%的透明度，设置参数如图5-70所示，效果如图5-71所示。
 
-![img](/../../第五章美轮美奂.files/image077.jpg)       ![img](/../../第五章美轮美奂.files/image078.jpg)
+![img](/assets/05/image077.jpg)       ![img](/assets/05/image078.jpg)
 
 图5-70                             图5-71  
 
 然后将渐变色块置于图片的右侧，调整好位置，设置就完成了。
 
-![img](/../../第五章美轮美奂.files/image079.jpg)
+![img](/assets/05/image079.jpg)
 
 图5-72

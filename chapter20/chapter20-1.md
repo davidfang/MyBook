@@ -11,7 +11,7 @@ typora-root-url: ..\assets\20
 
 这是一个设计师们的宝地，想要突破瓶颈，它必然是你中意的绝世秘籍，各种技巧、资源大放送，并且最令人无法忍受的就是免费，连高端教程都是免费的，当然这里面并不只是PPT，各种流行的设计软件大多都有。
 
-![img](/../../第二十章%20遥遥可期.files/image001.jpg)
+![img](/assets/20/image001.jpg)
 
 图20-1
 
@@ -19,7 +19,7 @@ typora-root-url: ..\assets\20
 
 这里有着大量的原创作品和一些非常好的原创性作文，还有非常精美的素材。
 
-![img](/../../第二十章%20遥遥可期.files/image002.jpg)
+![img](/assets/20/image002.jpg)
 
 图20-2
 
@@ -27,7 +27,7 @@ Note & Point  http://noteandpoint.com/
 
 国外一个非常优秀的PPT作品网站，具有很高的借鉴意义。
 
-![img](/../../第二十章%20遥遥可期.files/image003.jpg)
+![img](/assets/20/image003.jpg)
 
 图20-2
 
@@ -39,7 +39,7 @@ Note & Point  http://noteandpoint.com/
 
 网站上的图表时非常专业的，各个细节都做的非常的到位，非常符合商业需求，拿来做商业演示时完全符合要求的。
 
-![img](/../../第二十章%20遥遥可期.files/image004.jpg)
+![img](/assets/20/image004.jpg)
 
 图20-3
 
@@ -47,7 +47,7 @@ Note & Point  http://noteandpoint.com/
 
 作为如今图表界非常流行的信息图表，想要学习，最好的方法就是借鉴别人的图表，然后自己进行模仿，信息图表是非常好用的。
 
-![img](/../../第二十章%20遥遥可期.files/image005.jpg)
+![img](/assets/20/image005.jpg)
 
 图20-4
 
@@ -55,7 +55,7 @@ Note & Point  http://noteandpoint.com/
 
 对于各种图表进行改造是非常具有借鉴意义的，将简单的图表进行信息化，若是嫌弃PPT中图表太简单，那么这里的图表将给予你很大的帮助。
 
-![img](/../../第二十章%20遥遥可期.files/image006.jpg)
+![img](/assets/20/image006.jpg)
 
 图20-5
 

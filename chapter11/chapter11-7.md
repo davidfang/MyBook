@@ -9,7 +9,7 @@ typora-root-url: ..\assets\11
 
 格式工厂所能转换的格式极其之多，并且操作非常简单。
 
-![img](/../../第十一章%20管理你的PPT.files/image038.jpg)
+![img](/assets/11/image038.jpg)
 
 图11-36
 
@@ -25,7 +25,7 @@ typora-root-url: ..\assets\11
 
 （5）支持多种移动设备，如图11-37所示。
 
-![img](/../../第十一章%20管理你的PPT.files/image039.jpg)
+![img](/assets/11/image039.jpg)
 
 图11-37
 

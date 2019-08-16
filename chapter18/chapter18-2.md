@@ -11,43 +11,43 @@ typora-root-url: ..\assets\18
 
 首先插入一个图形，例如矩形，然后为矩形添加飞入的动画效果，然后在“添加动画”中单击“更多进入效果”，在进入中找到“阶梯形”。
 
-![img](/../../第十八章%20行云流水.files/image010.png)
+![img](/assets/18/image010.png)
 
 图18-9
 
 通过“效果选项”飞入动画的飞入方向更改为“自左侧”，阶梯形动画更改为“左下”，将阶梯形动画的开始方式设置为“与上一动画同时”，当预览时你会发现这和单纯意义上的飞入有着很大的不同。
 
-![img](/../../第十八章%20行云流水.files/image011.jpg)
+![img](/assets/18/image011.jpg)
 
 图18-10
 
-![img](/../../第十八章%20行云流水.files/image012.jpg)
+![img](/assets/18/image012.jpg)
 
 图18-11
 
-![img](/../../第十八章%20行云流水.files/image013.jpg)
+![img](/assets/18/image013.jpg)
 
 图18-12
 
-![img](/../../第十八章%20行云流水.files/image014.jpg)
+![img](/assets/18/image014.jpg)
 
 图18-13
 
 这是对图形而言，对图片也是一样可以进行设置的，设置图片和设置形状的操作是一样的，只是最后的显示效果略有差别。
 
-![img](/../../第十八章%20行云流水.files/image015.jpg)
+![img](/assets/18/image015.jpg)
 
 图18-14
 
-![img](/../../第十八章%20行云流水.files/image016.jpg)
+![img](/assets/18/image016.jpg)
 
 图18-15
 
-![img](/../../第十八章%20行云流水.files/image017.jpg)
+![img](/assets/18/image017.jpg)
 
 图18-16
 
-![img](/../../第十八章%20行云流水.files/image018.jpg)
+![img](/assets/18/image018.jpg)
 
 图18-17
 
@@ -59,19 +59,19 @@ typora-root-url: ..\assets\18
 
 陀螺旋和旋转的效果是不一样的，陀螺旋是在平面上转动，而旋转则是在三维内转动，所以同样是旋转，造成的效果却是不一样的，具体需要则依据实际情况而定。
 
-![img](/../../第十八章%20行云流水.files/image019.jpg)
+![img](/assets/18/image019.jpg)
 
 图18-17
 
-![img](/../../第十八章%20行云流水.files/image020.jpg)
+![img](/assets/18/image020.jpg)
 
 图18-18
 
-![img](/../../第十八章%20行云流水.files/image021.jpg)
+![img](/assets/18/image021.jpg)
 
 图18-19
 
-![img](/../../第十八章%20行云流水.files/image022.jpg)
+![img](/assets/18/image022.jpg)
 
 图18-20
 
@@ -85,37 +85,37 @@ typora-root-url: ..\assets\18
 
 插入一个同心圆，为同心圆添加轮子和陀螺旋动画，将两者设置成同时开始，即将动画的开始时刻设置成一样，然后让动画的的开始方式为“与上一动画同时”。
 
-![img](/../../第十八章%20行云流水.files/image023.jpg)
+![img](/assets/18/image023.jpg)
 
 图18-21
 
-![img](/../../第十八章%20行云流水.files/image024.jpg)
+![img](/assets/18/image024.jpg)
 
 图18-22
 
-![img](/../../第十八章%20行云流水.files/image025.jpg)
+![img](/assets/18/image025.jpg)
 
 图18-23
 
-![img](/../../第十八章%20行云流水.files/image026.jpg)
+![img](/assets/18/image026.jpg)
 
 图18-24
 
 这样的效果比两种动画的任何一种单一的动画都要好看，效果更为的优异，这就是组合的惊喜，没有不中用的动画，只是没有到用它的时候，这就是动画，具有很强的灵活性，除了这点，还能对这些东西进行再次创造，再次组合，这样的就能组合出不一样的效果。
 
-![img](/../../第十八章%20行云流水.files/image027.jpg)
+![img](/assets/18/image027.jpg)
 
 图18-26
 
-![img](/../../第十八章%20行云流水.files/image028.jpg)
+![img](/assets/18/image028.jpg)
 
 图18-27
 
-![img](/../../第十八章%20行云流水.files/image029.jpg)
+![img](/assets/18/image029.jpg)
 
 图18-28
 
-![img](/../../第十八章%20行云流水.files/image030.jpg)
+![img](/assets/18/image030.jpg)
 
 图18-29
 
@@ -123,7 +123,7 @@ typora-root-url: ..\assets\18
 
 这里其实用到了三个同心圆，分别为同心圆填充入不同的颜色，然后依据需要将不同颜色的同心圆置于不同的层，这一步将决定于在动画开始时颜色出现的次序。
 
-![img](/../../第十八章%20行云流水.files/image031.jpg)
+![img](/assets/18/image031.jpg)
 
 图18-30
 
@@ -131,7 +131,7 @@ typora-root-url: ..\assets\18
 
 在设置动画时，动画的类型和时间的长短都是一样的，但是有一点不是一样的，那就是需要为同心圆设置延迟时间，置于底层的同心圆是最先开始出现并播放动画的，然后再是中间的，最后是最顶层的。
 
-![img](/../../第十八章%20行云流水.files/image032.jpg)
+![img](/assets/18/image032.jpg)
 
 图18-31
 
@@ -141,7 +141,7 @@ typora-root-url: ..\assets\18
 
 所谓拖尾字也就是文字后面还跟着一个“小尾巴”，字体不断移动，而“尾巴”也跟着开始移动，如图18-32所示。
 
-![img](/../../第十八章%20行云流水.files/image033.jpg)
+![img](/assets/18/image033.jpg)
 
 图18-32
 
@@ -149,25 +149,25 @@ typora-root-url: ..\assets\18
 
 首先插入一个文本框，输入需要的内容，设置好字体，字号，还有字体的颜色，然后将文本复制一份，将文字的透明度设置为50%，在“设置形状格式”的窗格中选择“文本选项”，一定是“文本选项”，前面就有提到过这个问题，不选择这个选项操作是无法成功的。
 
-![img](/../../第十八章%20行云流水.files/image034.jpg) ![img](/../../第十八章%20行云流水.files/image035.jpg)
+![img](/assets/18/image034.jpg) ![img](/assets/18/image035.jpg)
 
 图18-33                                图18-34        
 
 然后为两个文本框设置“飞入”动画，为添加透明度的文本框设置延迟时间，这里延迟多少秒，就需要减去多少秒的动画时间，两个文本框结束动画的时间需要是一样的。
 
-![img](/../../第十八章%20行云流水.files/image036.jpg)
+![img](/assets/18/image036.jpg)
 
 图18-35
 
-![img](/../../第十八章%20行云流水.files/image037.jpg)
+![img](/assets/18/image037.jpg)
 
 图18-36
 
-![img](/../../第十八章%20行云流水.files/image038.jpg)
+![img](/assets/18/image038.jpg)
 
 图18-37
 
-![img](/../../第十八章%20行云流水.files/image039.jpg)
+![img](/assets/18/image039.jpg)
 
 图18-38
 
@@ -177,19 +177,19 @@ typora-root-url: ..\assets\18
 
 例如，当文本飞入幻灯片后，对文本进行二次强调。
 
-![img](/../../第十八章%20行云流水.files/image040.jpg)
+![img](/assets/18/image040.jpg)
 
 图18-39
 
-![img](/../../第十八章%20行云流水.files/image041.jpg)
+![img](/assets/18/image041.jpg)
 
 图18-40
 
-![img](/../../第十八章%20行云流水.files/image042.jpg)
+![img](/assets/18/image042.jpg)
 
 图18-41
 
-![img](/../../第十八章%20行云流水.files/image043.jpg)
+![img](/assets/18/image043.jpg)
 
 图18-42
 
@@ -199,7 +199,7 @@ typora-root-url: ..\assets\18
 
 首先为其中一个文本框设置“飞入”动画，然后为为另一个文本框添加动画效果，这里需要添加一个“出现”动画，然后再添加一个“放大/缩小”动画，“飞入”动画为第一个开始的动画，“出现”动画为第二开始，将“出现”动画设置为“上一动画之后”，“放大/缩小”动画则是第三个开始的动画，如图18-43所示。
 
-![img](/../../第十八章%20行云流水.files/image044.jpg)
+![img](/assets/18/image044.jpg)
 
 图18-44
 

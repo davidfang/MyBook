@@ -9,18 +9,18 @@ typora-root-url: ..\assets\03
 
 如图3-45所示，对版式进行如下修改。
 
-![img](/image057.png)
+![img](/assets/03/image057.png)
 
 <center>图3-45</center>
 
 关闭母版视图，整个背景和版式一模一样，如图3-46所示。
 
-![img](/image058.png)
+![img](/assets/03/image058.png)
 
 <center>图3-46</center>
 
 若需要另一个版式的背景，则直接选中幻灯片缩略图，右键，选择相应的版式，相应版式上的元素就会自动更新幻灯片，如图3-47所示。
 
-![img](/image059.png)
+![img](/assets/03/image059.png)
 
 <center>图3-47</center>

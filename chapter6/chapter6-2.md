@@ -9,13 +9,13 @@ typora-root-url: ..\assets\06
 
 在PowerPoint 2013中预设有很多图片与SmartArt混排的样式，如图6-34所示。
 
-![img](/../../第六章特立独行.files/image109.jpg)
+![img](/assets/06/image109.jpg)
 
 图6-34
 
 我们有两种方式创建图片SmartArt混排，第一种，我们先插入一个样式，然后更改颜色和效果，如图6-35所示。
 
-![img](/../../第六章特立独行.files/image110.jpg)
+![img](/assets/06/image110.jpg)
 
 图6-35
 
@@ -23,23 +23,23 @@ typora-root-url: ..\assets\06
 
  
 
-![img](/../../第六章特立独行.files/image111.jpg)
+![img](/assets/06/image111.jpg)
 
 图6-36
 
 第二种方法，我们先插入图片，选中所有图片，在“图片工具-格式”中单击“图片版式”命令。
 
-![img](/../../第六章特立独行.files/image112.jpg)
+![img](/assets/06/image112.jpg)
 
 图6-37
 
-![img](/../../第六章特立独行.files/image113.png)
+![img](/assets/06/image113.png)
 
 图6-38
 
 为选择的样式更改颜色和效果，添加文字，如图6-39所示。
 
-![img](/../../第六章特立独行.files/image114.jpg)
+![img](/assets/06/image114.jpg)
 
 图6-39
 

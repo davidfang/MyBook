@@ -7,7 +7,7 @@ typora-root-url: ..\assets\15
 
 有一些在Photoshop上才能实现的功能，其实在如今的PowerPoint 2013中也是可以做到的，PPT中制作发光字体，制作方法还不止一种，简单的说有三种让字体产生发光的效果。
 
-![img](/../../第十五章%20PPT之神.files/image076.jpg)
+![img](/assets/15/image076.jpg)
 
 图15-75
 
@@ -17,25 +17,25 @@ typora-root-url: ..\assets\15
 
 输入文字后，选中文本框单击右键，选中“设置形状格式”。
 
-![img](/../../第十五章%20PPT之神.files/image077.jpg)
+![img](/assets/15/image077.jpg)
 
 图15-76
 
 在设置形状窗格中选中“文本选项”，此处是关键处，默认是选择的形状选项，此处选错则会影响接下来的操作。然后选择“发光”效果。
 
-![img](/../../第十五章%20PPT之神.files/image078.jpg)
+![img](/assets/15/image078.jpg)
 
 图15-77
 
 通过设置发光的各项参数来调节发光效果，设置发光的颜色、光源的大小和透明度。
 
-![img](/../../第十五章%20PPT之神.files/image079.jpg)
+![img](/assets/15/image079.jpg)
 
 图15-78
 
 另外，为了使得发光效果更为明显，可以更改字体的颜色，来增强发光的效果。
 
-![img](/../../第十五章%20PPT之神.files/image080.jpg)
+![img](/assets/15/image080.jpg)
 
 图15-79
 
@@ -43,19 +43,19 @@ typora-root-url: ..\assets\15
 
 输入字体后，利用选择性粘贴，将字体粘贴为PNG图片。
 
-![img](/../../第十五章%20PPT之神.files/image081.jpg)
+![img](/assets/15/image081.jpg)
 
 图15-80
 
 然后在艺术效果中单击虚化效果。
 
-![img](/../../第十五章%20PPT之神.files/image082.jpg)
+![img](/assets/15/image082.jpg)
 
 图15-81
 
 将虚化的文字图片置于底层，与文字对齐后微微错开，这样就能制造 出一种发光的感觉。
 
-![img](/../../第十五章%20PPT之神.files/image083.jpg)
+![img](/assets/15/image083.jpg)
 
 图15-83
 
@@ -63,18 +63,18 @@ typora-root-url: ..\assets\15
 
 在设置形状格式的文本选项中，为文字设置阴影。
 
-![img](/../../第十五章%20PPT之神.files/image084.jpg)
+![img](/assets/15/image084.jpg)
 
 图15-84
 
 在阴影选项中的预设中选择“外部——向下偏移”，然后调节阴影的各项参数，更改阴影的颜色、透明度、模糊等。
 
-![img](/../../第十五章%20PPT之神.files/image085.jpg)
+![img](/assets/15/image085.jpg)
 
 图15-85
 
 再更改字体本来的颜色，增强发光的效果。
 
-![img](/../../第十五章%20PPT之神.files/image086.jpg)
+![img](/assets/15/image086.jpg)
 
 图15-86

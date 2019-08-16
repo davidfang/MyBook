@@ -7,43 +7,43 @@ typora-root-url: ..\assets\15
 
 是否曾经羡慕过别人PPT中加入的文字云效果，想从网上进行下载，却很难找到自己需要的文字云，有没有一种简单的方法可以直接进行制作呢，这里是有的，而且特别的简单，神器就在PPT内，只是不还未找到，文字云生成插件在PPT一个你从未有用到过的命令里，它的名字是pro word cloud，制作效果如图15-36所示。
 
-![img](/../../第十五章%20PPT之神.files/image036.jpg)
+![img](/assets/15/image036.jpg)
 
 图15-36
 
 需要使用它，首先得将它找出来，单击“插入”选项卡中的“office应用程序”。
 
-![img](/../../第十五章%20PPT之神.files/image037.jpg)
+![img](/assets/15/image037.jpg)
 
 图15-37
 
 在搜索栏输入pro word cloud，单击搜索。
 
-![img](/../../第十五章%20PPT之神.files/image038.jpg)  ![img](/../../第十五章%20PPT之神.files/image039.jpg)
+![img](/assets/15/image038.jpg)  ![img](/assets/15/image039.jpg)
 
 图15-38                                图15-39        
 
 单击“信任它”后，插件会自动添加到“office应用程序”中，以后需要使用可以直接单击这个图标。
 
-![img](/../../第十五章%20PPT之神.files/image040.png)
+![img](/assets/15/image040.png)
 
 图15-40
 
 打开这个插件，插件的界面是全英文的，不过意思很简单，多试几次几次就能记住英文的意思和设置不同的结果不同的各种效果。
 
-![img](/../../第十五章%20PPT之神.files/image041.jpg)
+![img](/assets/15/image041.jpg)
 
 图15-41
 
 选中需要转换的文字，设置好参数后，单击转换即可。
 
-![img](/../../第十五章%20PPT之神.files/image042.png)
+![img](/assets/15/image042.png)
 
 图15-42
 
 在插件的正上方可以预览效果，在预览图上单击右键可以保存或复制。
 
-![img](/../../第十五章%20PPT之神.files/image043.jpg)
+![img](/assets/15/image043.jpg)
 
 图15-43
 
@@ -53,11 +53,11 @@ typora-root-url: ..\assets\15
 
 首先，在浏览器内输入TAGUL进行搜索，找到TAGUL的网站，单击进入，TAGUL是需要注册登录后才可以使用的在线网站，但好在注册非常快捷，一分钟内就可以完成。
 
-![img](/../../第十五章%20PPT之神.files/image044.jpg)
+![img](/assets/15/image044.jpg)
 
 图15-44
 
-![img](/../../第十五章%20PPT之神.files/image045.jpg)
+![img](/assets/15/image045.jpg)
 
 图15-45
 
@@ -65,25 +65,25 @@ typora-root-url: ..\assets\15
 
 登录之后，如图15-46所示，点击“create new word cloud”。
 
-![img](/../../第十五章%20PPT之神.files/image046.jpg)
+![img](/assets/15/image046.jpg)
 
 图15-46
 
 网站会自动跳转到文字云的制作界面，很不凑巧，这个操作界面也是一个全英文版的。不过不要紧，在设置参数的时候从上往下进行设置，而且很多参数 可以根本不去管，保持默认即可。
 
-![img](/../../第十五章%20PPT之神.files/image047.jpg)
+![img](/assets/15/image047.jpg)
 
 图15-46
 
 这里用案例来讲解有关于文字的制作流程。
 
-![img](/../../第十五章%20PPT之神.files/image048.png)
+![img](/assets/15/image048.png)
 
 图15-47
 
 在文字输入的界面中可以一个文本内容一个文本内容分别输入，也可以直接将 文本内容一次性输入，这里选用一次性全部输入的方法。如图15-48所示，选择“Import words”，然后在弹出来的对话框中输入文本内容，这里除了输入文本内容外，还可以选择导入Excel文件或者是导入网页。另外在输入文字时注意换行。
 
-![img](/../../第十五章%20PPT之神.files/image049.jpg)
+![img](/assets/15/image049.jpg)
 
 图15-48
 
@@ -91,19 +91,19 @@ typora-root-url: ..\assets\15
 
  
 
-![img](/../../第十五章%20PPT之神.files/image050.jpg)
+![img](/assets/15/image050.jpg)
 
 图15-49
 
 选择形状完成后，再选择字体，选择字体可以选择网站内置的字体，也可以自由添加自己电脑中的字体，电脑中的字体都存储在C盘\Windows\Fonts。
 
-![img](/../../第十五章%20PPT之神.files/image051.jpg)  ![img](/../../第十五章%20PPT之神.files/image052.jpg)
+![img](/assets/15/image051.jpg)  ![img](/assets/15/image052.jpg)
 
 图15-50                                 图15-51    
 
 设置到这里，其实已经算是设置完成了。单击“预览”可以看到文字云已经形成了，效果还很不错。
 
-![img](/../../第十五章%20PPT之神.files/image053.jpg)
+![img](/assets/15/image053.jpg)
 
 图15-52
 
@@ -115,7 +115,7 @@ typora-root-url: ..\assets\15
 
 文字的大小若是使用没有自行在“Words”设置文字的大小的话，则不必改变默认的勾选。
 
-![img](/../../第十五章%20PPT之神.files/image054.jpg)
+![img](/assets/15/image054.jpg)
 
 图15-53
 
@@ -123,55 +123,55 @@ typora-root-url: ..\assets\15
 
 如图15-54所示，将“Use shape colors”的勾选去掉，这样用户就能随意的更改 颜色了，若是觉得不想动手更改颜色，单击“Random”，网站将会为字体自动配色，并随机分配给每一个关键字。勾选上“Transparent”则会得到一张背景透明的照片。
 
-![img](/../../第十五章%20PPT之神.files/image055.jpg)
+![img](/assets/15/image055.jpg)
 
 图15-54
 
 关键字的颜色是可以指定更改的，不过不在“颜色与动画”更改，而在“Words”中更改，在输入文本后，在“Words”中可以更改关键字的尺寸、颜色、角度和字体，还有一个是否重复添加。
 
-![img](/../../第十五章%20PPT之神.files/image056.jpg)
+![img](/assets/15/image056.jpg)
 
 图15-55
 
 例如，我们加入一个“花火”关键字，然后更改它的各项参数，得到如图15-56所示。
 
-![img](/../../第十五章%20PPT之神.files/image057.jpg)
+![img](/assets/15/image057.jpg)
 
 图15-56
 
 在所有的设置都完成后，需要保存设置后的图片，在“Grab and Share”进行下载即可，由于是普通会员身份，所以只能下载1M的图片，若无特殊的要求，这样的图片已经够用了。
 
-![img](/../../第十五章%20PPT之神.files/image058.jpg)
+![img](/assets/15/image058.jpg)
 
 图15-57
 
 前面了解的是图形文字云的制作过程，接下来，我们来了解有关图片的文字云是如何制作的。
 
-![img](/../../第十五章%20PPT之神.files/image059.jpg)         ![img](/../../第十五章%20PPT之神.files/image060.png)
+![img](/assets/15/image059.jpg)         ![img](/assets/15/image060.png)
 
 图15-58                                  图15-59          
 
 首先，输入关键字。
 
-![img](/../../第十五章%20PPT之神.files/image061.jpg)
+![img](/assets/15/image061.jpg)
 
 图15-60
 
 准备一张素材照片，将素材添加到图片中，
 
-![img](/../../第十五章%20PPT之神.files/image062.jpg)
+![img](/assets/15/image062.jpg)
 
 图15-61
 
 图片导入后，需要对图片的各项参数进行一些调整，需要调整阀值，只保留人物的基本轮廓即可，背景颜色应当全部去掉。
 
-![img](/../../第十五章%20PPT之神.files/image063.jpg)       ![img](/../../第十五章%20PPT之神.files/image064.jpg)
+![img](/assets/15/image063.jpg)       ![img](/assets/15/image064.jpg)
 
 图15-62                                图15-63
 
 完成后，单击“预览”即可查看图片的效果。
 
-![img](/../../第十五章%20PPT之神.files/image065.jpg)
+![img](/assets/15/image065.jpg)
 
 图15-64
 
@@ -181,11 +181,11 @@ typora-root-url: ..\assets\15
 
 另外，将文字的数量加至最大——999，让更多的关键字去填补图片的空白。
 
-![img](/../../第十五章%20PPT之神.files/image066.jpg)
+![img](/assets/15/image066.jpg)
 
 图15-65
 
-![img](/../../第十五章%20PPT之神.files/image067.jpg)
+![img](/assets/15/image067.jpg)
 
 图15-66
 

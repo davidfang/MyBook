@@ -9,11 +9,11 @@ typora-root-url: ..\assets\03
 
 开始——编辑——替换——替换字体。
 
-![img](/image062.png)
+![img](/assets/03/image062.png)
 
 <center>图3-50</center>
 
-![img](/image063.png)
+![img](/assets/03/image063.png)
 
 <center>图3-51</center>
 

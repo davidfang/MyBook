@@ -7,7 +7,7 @@ typora-root-url: ..\assets\11
 
 PowerPoint本身也提供了非常方便好用的直接打印功能。
 
-![img](/../../第十一章%20管理你的PPT.files/image030.jpg)
+![img](/assets/11/image030.jpg)
 
 图11-28
 
@@ -15,7 +15,7 @@ PowerPoint本身也提供了非常方便好用的直接打印功能。
 
 其中我们可能经常有用到的可能就是将讲义进行打印，我们可以设置打印多张讲义在一页纸上，这样比较节省纸张。
 
-![img](/../../第十一章%20管理你的PPT.files/image031.jpg)
+![img](/assets/11/image031.jpg)
 
 图11-29
 

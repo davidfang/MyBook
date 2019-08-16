@@ -9,13 +9,13 @@ typora-root-url: ..\assets\03
 
 在“视图”选项卡里点击进入“大纲视图”，如图3-48所示。
 
-![img](/image060.png)
+![img](/assets/03/image060.png)
 
 <center>图3-48</center>
 
 选中需要更改的内容在字体面板中进行修改，如图3-49所示。Ctrl+A全文选取；按住Ctrl键，光标分别选取；选中开头的内容，按住shift键，选中结尾，可进行区域选取。
 
-![img](/image061.png)
+![img](/assets/03/image061.png)
 
 <center>图3-49</center>
 

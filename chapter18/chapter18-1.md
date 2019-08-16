@@ -7,27 +7,27 @@ typora-root-url: ..\assets\18
 
 倒计时的效果可以用到演示的开场上，利用开头倒计时来引出这次演讲。
 
-![img](/../../第十八章%20行云流水.files/image001.jpg)
+![img](/assets/18/image001.jpg)
 
 图18-1
 
-![img](/../../第十八章%20行云流水.files/image002.jpg)
+![img](/assets/18/image002.jpg)
 
 图18-2
 
-![img](/../../第十八章%20行云流水.files/image003.jpg)
+![img](/assets/18/image003.jpg)
 
 图18-3
 
-![img](/../../第十八章%20行云流水.files/image004.jpg)
+![img](/assets/18/image004.jpg)
 
 图18-4
 
-![img](/../../第十八章%20行云流水.files/image005.jpg)
+![img](/assets/18/image005.jpg)
 
 图18-5
 
-![img](/../../第十八章%20行云流水.files/image006.jpg)
+![img](/assets/18/image006.jpg)
 
 图18-6
 
@@ -35,14 +35,14 @@ typora-root-url: ..\assets\18
 
 例如，将数字换成水果，然后，依据这个模式，一张一张的来展现家乡每一种的水果。
 
-![img](/../../第十八章%20行云流水.files/image007.jpg)
+![img](/assets/18/image007.jpg)
 
 图18-7
 
-![img](/../../第十八章%20行云流水.files/image008.jpg)
+![img](/assets/18/image008.jpg)
 
 图18-8
 
-![img](/../../第十八章%20行云流水.files/image009.jpg)
+![img](/assets/18/image009.jpg)
 
 图18-9

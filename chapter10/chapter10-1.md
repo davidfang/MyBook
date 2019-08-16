@@ -11,7 +11,7 @@ OneDrive——微软新一代网络存储工具，由SkyDrive改名而来。OneD
 
 一般的win8用户电脑上都会有OneDrive，在开始屏幕上就可以找到。
 
-![img](/../../第十章让PPT无处不在.files/image001.jpg)
+![img](/assets/10/image001.jpg)
 
 图10-1
 
@@ -19,7 +19,7 @@ OneDrive——微软新一代网络存储工具，由SkyDrive改名而来。OneD
 
 图10-2中所示的SkyDrive Pro就是现在的OneDrive。
 
-![img](/../../第十章让PPT无处不在.files/image002.jpg)
+![img](/assets/10/image002.jpg)
 
 图10-2
 
@@ -27,7 +27,7 @@ OneDrive——微软新一代网络存储工具，由SkyDrive改名而来。OneD
 
 在客户端安装完成后，会在电脑上生成一个本地文件夹，用于保存网络文件在本地的副本，用户还可以根据自己的需要对OneDrive进行设置。
 
-![img](/../../第十章让PPT无处不在.files/image003.jpg)
+![img](/assets/10/image003.jpg)
 
 图10-3
 
@@ -35,19 +35,19 @@ OneDrive也有相对应的移动客户端，用户还可以选择在iPhone、iPa
 
 使用Microsoft账号即可成功登录OneDrive，对OneDrive进行使用，若没有微软账号，只需要几分钟的时间即可注册一个ID，登录之后即可文件保存到 OneDrive上了。
 
-![img](/../../第十章让PPT无处不在.files/image004.jpg)
+![img](/assets/10/image004.jpg)
 
 图10-4
 
 当我们需要将文件上传至OneDrive中时，只需要将文件直接复制粘贴或直接保存到OneDrive的本地文件夹即可，OneDrive会自动将文件上传到网络上。也可以在OneDrive界面中选择文件进行上传，如图10-5所示。
 
-![img](/../../第十章让PPT无处不在.files/image005.jpg)
+![img](/assets/10/image005.jpg)
 
 图10-5
 
 除此之外，还能对OneDrive中的文件夹进行新建。
 
-![img](/../../第十章让PPT无处不在.files/image006.jpg)
+![img](/assets/10/image006.jpg)
 
 图10-5
 
@@ -57,19 +57,19 @@ OneDrive也有相对应的移动客户端，用户还可以选择在iPhone、iPa
 
 同样地，使用网页版的OneDrive也需要用户登录Microsoft账号。
 
-![img](/../../第十章让PPT无处不在.files/image007.jpg)
+![img](/assets/10/image007.jpg)
 
 图10-5
 
 在网页版的OneDrive中，当我们单击创建时会发现，我们可以创建多种文件，例如Word、PowerPoint、Excel等等，这些都可以在OneDrive中直接进行创建，根本不需要进行上传。
 
-![img](/../../第十章让PPT无处不在.files/image008.jpg)
+![img](/assets/10/image008.jpg)
 
 图10-5
 
 在平常使用office中，我们也可以直接将完成后的office文件保存到OneDrive中，OneDrive已经嵌入到了office中，我们只需要做的就是进行选择，是否进行保存。
 
-![img](/../../第十章让PPT无处不在.files/image009.jpg)
+![img](/assets/10/image009.jpg)
 
 图10-6
 
@@ -79,13 +79,13 @@ OneDrive也有相对应的移动客户端，用户还可以选择在iPhone、iPa
 
 OneDrive中的共享功能非常值得一提，打开OneDrive页面，选中文件后，单击“共享”，就会弹出文件共享选项窗口，在其中，可以选择两种共享文件的方法：发生电子邮件、创建链接。
 
-![img](/../../第十章让PPT无处不在.files/image010.jpg)
+![img](/assets/10/image010.jpg)
 
 图10-7
 
 通过电子邮件发送共享链接，邮件接收人会收到一封包含共享链接的邮件，通过这个链接，收件人就可以打开共享文件，发送人可以选择赋予收件人编辑权限。还可以选择收件人是否需要Microsoft账号。
 
-![img](/../../第十章让PPT无处不在.files/image011.jpg)
+![img](/assets/10/image011.jpg)
 
 图10-8
 
@@ -97,7 +97,7 @@ OneDrive中的共享功能非常值得一提，打开OneDrive页面，选中文�
 
 （3）       让所有人观看。
 
-![img](/../../第十章让PPT无处不在.files/image012.jpg)
+![img](/assets/10/image012.jpg)
 
 图10-8
 
@@ -111,7 +111,7 @@ OneDrive作为微软旗下的一款网盘应用，功能是十分强大的，它
 
  如图10-9所示。
 
-![img](/../../第十章让PPT无处不在.files/image013.jpg)
+![img](/assets/10/image013.jpg)
 
 图10-9
 
@@ -121,19 +121,19 @@ OneDrive作为微软旗下的一款网盘应用，功能是十分强大的，它
 
 选择PowerPoint Online，会出现一个和PowerPoint极其相似的界面，单击“空白演示文稿”。
 
-![img](/../../第十章让PPT无处不在.files/image014.jpg)
+![img](/assets/10/image014.jpg)
 
 图10-10
 
 进入到PowerPoint Online后，它就相当于是一个PowerPoint的简化版，这意味着即是某些电脑恰好没有安装PowerPoint，也能通过进入OneDrive网页版对PPT进行编辑。
 
-![img](/../../第十章让PPT无处不在.files/image015.jpg)
+![img](/assets/10/image015.jpg)
 
 图10-11
 
 在OneDrive中单击需要打开的PPT文件即可进入PPT的编辑状态。
 
-![img](/../../第十章让PPT无处不在.files/image016.jpg)
+![img](/assets/10/image016.jpg)
 
 图10-12
 
@@ -143,43 +143,43 @@ PowerPoint Online主菜单
 
 （1）       文件：新建、打开、另存、共享等操作。
 
-![img](/../../第十章让PPT无处不在.files/image017.jpg)
+![img](/assets/10/image017.jpg)
 
 图10-13
 
 （2）开始：剪贴板、幻灯片、字体、段落、绘图等一些基本操作。
 
-![img](/../../第十章让PPT无处不在.files/image018.jpg)
+![img](/assets/10/image018.jpg)
 
 图10-14
 
 （3）插入：幻灯片、表格、图像、插图、链接、文本等功能。
 
-![img](/../../第十章让PPT无处不在.files/image019.jpg)
+![img](/assets/10/image019.jpg)
 
 图10-15
 
 （4）设计：主题、变量。大体上和PowerPoint上“设计”选项卡类似。
 
-![img](/../../第十章让PPT无处不在.files/image020.jpg)
+![img](/assets/10/image020.jpg)
 
 图10-16
 
 （5）切换：可以设置一些简单的幻灯片切换效果。
 
-![img](/../../第十章让PPT无处不在.files/image021.jpg)
+![img](/assets/10/image021.jpg)
 
 图10-17
 
 （6）动画：可以为幻灯片内的对象添加一些简单动画效果，还可以对动画进行排序。
 
-![img](/../../第十章让PPT无处不在.files/image022.jpg)
+![img](/assets/10/image022.jpg)
 
 图10-18
 
 （7）查看：演示文稿视图、显示两个选项卡。
 
-![img](/../../第十章让PPT无处不在.files/image023.jpg)
+![img](/assets/10/image023.jpg)
 
 在“告诉我您想要做什么”框中，用户只需要输入想要的命令，PowerPoint Online就会帮用户直接调用此命令，当然这些命令也都局限于PowerPoint Online本身。
 

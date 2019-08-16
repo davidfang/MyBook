@@ -7,11 +7,11 @@ typora-root-url: ..\assets\11
 
 PowerPoint自身提供了将PPT导出为图片的功能，如图11-20所示。
 
-![img](/../../第十一章%20管理你的PPT.files/image022.jpg)
+![img](/assets/11/image022.jpg)
 
 图11-20
 
-![img](/../../第十一章%20管理你的PPT.files/image023.jpg)
+![img](/assets/11/image023.jpg)
 
 图11-21
 
@@ -25,7 +25,7 @@ PowerPoint自身提供了将PPT导出为图片的功能，如图11-20所示。
 
 图11-22所示图片为PPT直接导出的图片；图11-23所示的图片为SnagIt截图软件截图。
 
-![img](/../../第十一章%20管理你的PPT.files/image024.jpg) ![img](/../../第十一章%20管理你的PPT.files/image025.jpg)
+![img](/assets/11/image024.jpg) ![img](/assets/11/image025.jpg)
 
 图11-22                           图11-23    
 
@@ -37,19 +37,19 @@ PowerPoint自身提供了将PPT导出为图片的功能，如图11-20所示。
 
 打开Solid Converter，在开始界面上很自然的可以看到四个命令，选择“打开PDF”，找所需要转换的PDF文件。
 
-![img](/../../第十一章%20管理你的PPT.files/image026.png)
+![img](/assets/11/image026.png)
 
 图11-24
 
 如图11-25所示，选择需要转换出的文件格式。
 
-![img](/../../第十一章%20管理你的PPT.files/image027.png)
+![img](/assets/11/image027.png)
 
 图11-25
 
 单击“PDF至图像”图标，软件会出现一个对话窗口，在这里可以设置图片的质量及保存位置。
 
-![img](/../../第十一章%20管理你的PPT.files/image028.jpg)
+![img](/assets/11/image028.jpg)
 
 图11-26
 
@@ -67,7 +67,7 @@ PPT导出的图片默认是96 dpi，dpi对应是每英寸的像素数，所以PP
 
 宽度=1080/96×2.54=28.575（厘米）、高度=780/96×2.54=20.638（厘米）。
 
-![img](/../../第十一章%20管理你的PPT.files/image029.jpg)
+![img](/assets/11/image029.jpg)
 
 图11-27
 

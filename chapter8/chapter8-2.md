@@ -15,165 +15,165 @@ typora-root-url: ..\assets\08
 
 #### **淡出**
 
-![img](/../../第八章活灵活现.files/image010.jpg)
+![img](/assets/08/image010.jpg)
 
 图8-9
 
-![img](/../../第八章活灵活现.files/image011.jpg)
+![img](/assets/08/image011.jpg)
 
 图8-10
 
-![img](/../../第八章活灵活现.files/image012.jpg)
+![img](/assets/08/image012.jpg)
 
 图8-11
 
-![img](/../../第八章活灵活现.files/image013.jpg)
+![img](/assets/08/image013.jpg)
 
 图8-12
 
-![img](/../../第八章活灵活现.files/image014.jpg)
+![img](/assets/08/image014.jpg)
 
 图8-13
 
 #### **擦除**
 
-![img](/../../第八章活灵活现.files/image015.jpg)
+![img](/assets/08/image015.jpg)
 
 图8-14
 
-![img](/../../第八章活灵活现.files/image016.jpg)
+![img](/assets/08/image016.jpg)
 
 图8-15
 
-![img](/../../第八章活灵活现.files/image017.jpg)
+![img](/assets/08/image017.jpg)
 
 图8-16
 
-![img](/../../第八章活灵活现.files/image018.jpg)
+![img](/assets/08/image018.jpg)
 
 图8-17
 
-![img](/../../第八章活灵活现.files/image019.jpg)
+![img](/assets/08/image019.jpg)
 
 图8-17
 
 #### **劈裂**
 
-![img](/../../第八章活灵活现.files/image020.jpg)
+![img](/assets/08/image020.jpg)
 
 图8-18
 
-![img](/../../第八章活灵活现.files/image021.jpg)
+![img](/assets/08/image021.jpg)
 
 图8-19
 
-![img](/../../第八章活灵活现.files/image022.jpg)
+![img](/assets/08/image022.jpg)
 
 图8-20
 
-![img](/../../第八章活灵活现.files/image023.jpg)
+![img](/assets/08/image023.jpg)
 
 图8-21
 
-![img](/../../第八章活灵活现.files/image024.jpg)
+![img](/assets/08/image024.jpg)
 
 图8-22
 
 #### **基本缩放**
 
-![img](/../../第八章活灵活现.files/image025.jpg)
+![img](/assets/08/image025.jpg)
 
 图8-23
 
-![img](/../../第八章活灵活现.files/image026.jpg)
+![img](/assets/08/image026.jpg)
 
 图8-24
 
-![img](/../../第八章活灵活现.files/image027.jpg)
+![img](/assets/08/image027.jpg)
 
 图8-25
 
-![img](/../../第八章活灵活现.files/image028.jpg)
+![img](/assets/08/image028.jpg)
 
 图8-26
 
-![img](/../../第八章活灵活现.files/image029.jpg)
+![img](/assets/08/image029.jpg)
 
 图8-27
 
 在单击“动画”旁的小三角进入更多动画命令的选择时（或单击“添加动画”命令），若已有的进入动画还是不能满足使用需求，则可以单击选择下拉菜单底部的“更多进入效果”，如图8-28所示。
 
-![img](/../../第八章活灵活现.files/image030.png)
+![img](/assets/08/image030.png)
 
 图8-28
 
-![img](/../../第八章活灵活现.files/image031.jpg)
+![img](/assets/08/image031.jpg)
 
 图8-29
 
 在“更多进入效果”中，软件将进入动画分为4个种类。
 
-![img](/../../第八章活灵活现.files/image032.jpg)
+![img](/assets/08/image032.jpg)
 
 图8-30
 
-![img](/../../第八章活灵活现.files/image033.jpg)
+![img](/assets/08/image033.jpg)
 
 图8-31
 
-![img](/../../第八章活灵活现.files/image034.jpg)
+![img](/assets/08/image034.jpg)
 
 图8-32
 
-![img](/../../第八章活灵活现.files/image035.jpg)
+![img](/assets/08/image035.jpg)
 
 图8-33
 
-![img](/../../第八章活灵活现.files/image036.jpg)
+![img](/assets/08/image036.jpg)
 
 图8-33
 
-![img](/../../第八章活灵活现.files/image037.jpg)
+![img](/assets/08/image037.jpg)
 
 图8-34
 
-![img](/../../第八章活灵活现.files/image038.jpg)
+![img](/assets/08/image038.jpg)
 
 图8-35
 
-![img](/../../第八章活灵活现.files/image039.jpg)
+![img](/assets/08/image039.jpg)
 
 图8-36
 
-![img](/../../第八章活灵活现.files/image040.jpg)
+![img](/assets/08/image040.jpg)
 
 图8-37
 
-![img](/../../第八章活灵活现.files/image041.jpg)
+![img](/assets/08/image041.jpg)
 
 图8-39
 
-![img](/../../第八章活灵活现.files/image042.jpg)
+![img](/assets/08/image042.jpg)
 
 图8-40
 
-![img](/../../第八章活灵活现.files/image043.jpg)
+![img](/assets/08/image043.jpg)
 
 图8-41
 
-![img](/../../第八章活灵活现.files/image044.jpg)
+![img](/assets/08/image044.jpg)
 
 图8-41
 
-![img](/../../第八章活灵活现.files/image045.jpg)
+![img](/assets/08/image045.jpg)
 
 图8-42
 
-![img](/../../第八章活灵活现.files/image046.jpg)
+![img](/assets/08/image046.jpg)
 
 图8-43
 
-![img](/../../第八章活灵活现.files/image047.jpg)
+![img](/assets/08/image047.jpg)
 
 图8-44
 
@@ -185,147 +185,147 @@ typora-root-url: ..\assets\08
 
 #### **放大****/**缩小**
 
-![img](/../../第八章活灵活现.files/image048.jpg)
+![img](/assets/08/image048.jpg)
 
 图8-45                                                                                            
 
-![img](/../../第八章活灵活现.files/image049.jpg)
+![img](/assets/08/image049.jpg)
 
 图8-46
 
-![img](/../../第八章活灵活现.files/image050.jpg)
+![img](/assets/08/image050.jpg)
 
 图8-47
 
-![img](/../../第八章活灵活现.files/image051.jpg)
+![img](/assets/08/image051.jpg)
 
 图8-48
 
-![img](/../../第八章活灵活现.files/image052.jpg)
+![img](/assets/08/image052.jpg)
 
 图8-49
 
 #### **陀螺旋**
 
-![img](/../../第八章活灵活现.files/image053.jpg)
+![img](/assets/08/image053.jpg)
 
 图8-50
 
-![img](/../../第八章活灵活现.files/image054.jpg)
+![img](/assets/08/image054.jpg)
 
 图8-51
 
-![img](/../../第八章活灵活现.files/image055.jpg)
+![img](/assets/08/image055.jpg)
 
 图8-52
 
-![img](/../../第八章活灵活现.files/image056.jpg)
+![img](/assets/08/image056.jpg)
 
 图8-53
 
-![img](/../../第八章活灵活现.files/image057.jpg)
+![img](/assets/08/image057.jpg)
 
 图8-54
 
 #### **跷跷板**
 
-![img](/../../第八章活灵活现.files/image058.jpg)
+![img](/assets/08/image058.jpg)
 
 图8-55
 
-![img](/../../第八章活灵活现.files/image059.jpg)
+![img](/assets/08/image059.jpg)
 
 图8-56
 
-![img](/../../第八章活灵活现.files/image060.jpg)
+![img](/assets/08/image060.jpg)
 
 图8-57
 
-![img](/../../第八章活灵活现.files/image061.jpg)
+![img](/assets/08/image061.jpg)
 
 图8-58
 
-![img](/../../第八章活灵活现.files/image062.jpg)
+![img](/assets/08/image062.jpg)
 
 图8-59
 
 #### **彩色脉冲**
 
-![img](/../../第八章活灵活现.files/image063.jpg)
+![img](/assets/08/image063.jpg)
 
 图8-60
 
-![img](/../../第八章活灵活现.files/image064.jpg)
+![img](/assets/08/image064.jpg)
 
 图8-61
 
-![img](/../../第八章活灵活现.files/image065.jpg)
+![img](/assets/08/image065.jpg)
 
 图8-62
 
-![img](/../../第八章活灵活现.files/image066.jpg)
+![img](/assets/08/image066.jpg)
 
 图8-63
 
-![img](/../../第八章活灵活现.files/image067.jpg)
+![img](/assets/08/image067.jpg)
 
 图8-64
 
 同样地，界定强调动画的不同效果，强调动画也分为了四个种类。
 
-![img](/../../第八章活灵活现.files/image068.jpg)
+![img](/assets/08/image068.jpg)
 
 图8-65
 
-![img](/../../第八章活灵活现.files/image069.jpg)
+![img](/assets/08/image069.jpg)
 
 图8-66
 
-![img](/../../第八章活灵活现.files/image070.jpg)
+![img](/assets/08/image070.jpg)
 
 图8-67
 
-![img](/../../第八章活灵活现.files/image071.jpg)
+![img](/assets/08/image071.jpg)
 
 图8-68
 
-![img](/../../第八章活灵活现.files/image072.jpg)
+![img](/assets/08/image072.jpg)
 
 图8-69
 
-![img](/../../第八章活灵活现.files/image073.jpg)
+![img](/assets/08/image073.jpg)
 
 图8-70
 
-![img](/../../第八章活灵活现.files/image074.jpg)
+![img](/assets/08/image074.jpg)
 
 图8-71
 
-![img](/../../第八章活灵活现.files/image075.jpg)
+![img](/assets/08/image075.jpg)
 
 图8-72
 
-![img](/../../第八章活灵活现.files/image076.jpg)
+![img](/assets/08/image076.jpg)
 
 图8-73
 
-![img](/../../第八章活灵活现.files/image077.jpg)
+![img](/assets/08/image077.jpg)
 
 图8-74
 
-![img](/../../第八章活灵活现.files/image078.jpg)
+![img](/assets/08/image078.jpg)
 
 图8-75
 
-![img](/../../第八章活灵活现.files/image079.jpg)
+![img](/assets/08/image079.jpg)
 
 图8-76
 
-![img](/../../第八章活灵活现.files/image080.jpg)
+![img](/assets/08/image080.jpg)
 
 图8-77
 
-![img](/../../第八章活灵活现.files/image081.jpg)
+![img](/assets/08/image081.jpg)
 
 图8-78
 
@@ -335,155 +335,155 @@ typora-root-url: ..\assets\08
 
 #### **形状**
 
-![img](/../../第八章活灵活现.files/image082.jpg)
+![img](/assets/08/image082.jpg)
 
 图8-79
 
-![img](/../../第八章活灵活现.files/image083.jpg)
+![img](/assets/08/image083.jpg)
 
 图8-80
 
-![img](/../../第八章活灵活现.files/image084.jpg)
+![img](/assets/08/image084.jpg)
 
 图8-81
 
-![img](/../../第八章活灵活现.files/image085.jpg)
+![img](/assets/08/image085.jpg)
 
 图8-82
 
-![img](/../../第八章活灵活现.files/image086.jpg)
+![img](/assets/08/image086.jpg)
 
 图8-83
 
 #### **轮子**
 
-![img](/../../第八章活灵活现.files/image087.jpg)
+![img](/assets/08/image087.jpg)
 
 图8-84
 
-![img](/../../第八章活灵活现.files/image088.jpg)
+![img](/assets/08/image088.jpg)
 
 图8-85
 
-![img](/../../第八章活灵活现.files/image089.jpg)
+![img](/assets/08/image089.jpg)
 
 图8-86
 
-![img](/../../第八章活灵活现.files/image090.jpg)
+![img](/assets/08/image090.jpg)
 
 图8-87
 
-![img](/../../第八章活灵活现.files/image091.jpg)
+![img](/assets/08/image091.jpg)
 
 图8-88
 
 #### **盒状**
 
-![img](/../../第八章活灵活现.files/image092.jpg)
+![img](/assets/08/image092.jpg)
 
 图8-89
 
-![img](/../../第八章活灵活现.files/image093.jpg)
+![img](/assets/08/image093.jpg)
 
 图8-90
 
-![img](/../../第八章活灵活现.files/image094.jpg)
+![img](/assets/08/image094.jpg)
 
 图8-91
 
 #### **飞出**
 
-![img](/../../第八章活灵活现.files/image095.jpg)
+![img](/assets/08/image095.jpg)
 
 图8-92
 
-![img](/../../第八章活灵活现.files/image096.jpg)
+![img](/assets/08/image096.jpg)
 
 图8-93
 
-![img](/../../第八章活灵活现.files/image097.jpg)
+![img](/assets/08/image097.jpg)
 
 图8-94
 
-![img](/../../第八章活灵活现.files/image098.jpg)
+![img](/assets/08/image098.jpg)
 
 图8-95
 
-![img](/../../第八章活灵活现.files/image099.jpg)
+![img](/assets/08/image099.jpg)
 
 图8-96
 
 除去这些，还有另外一些退出动画的效果。
 
-![img](/../../第八章活灵活现.files/image100.jpg)
+![img](/assets/08/image100.jpg)
 
 图8-97
 
 #### **十字形扩展**
 
-![img](/../../第八章活灵活现.files/image101.jpg)
+![img](/assets/08/image101.jpg)
 
 图8-98
 
-![img](/../../第八章活灵活现.files/image102.jpg)
+![img](/assets/08/image102.jpg)
 
 图8-99
 
-![img](/../../第八章活灵活现.files/image103.jpg)
+![img](/assets/08/image103.jpg)
 
 图8-100
 
-![img](/../../第八章活灵活现.files/image104.jpg)
+![img](/assets/08/image104.jpg)
 
 图8-101
 
 #### **缩放**
 
-![img](/../../第八章活灵活现.files/image105.jpg)
+![img](/assets/08/image105.jpg)
 
 图8-102
 
-![img](/../../第八章活灵活现.files/image106.jpg)
+![img](/assets/08/image106.jpg)
 
 图8-103
 
-![img](/../../第八章活灵活现.files/image107.jpg)
+![img](/assets/08/image107.jpg)
 
 图8-104
 
-![img](/../../第八章活灵活现.files/image108.jpg)
+![img](/assets/08/image108.jpg)
 
 图8-105
 
 #### **基本缩放**
 
-![img](/../../第八章活灵活现.files/image109.jpg)
+![img](/assets/08/image109.jpg)
 
 图8-106
 
-![img](/../../第八章活灵活现.files/image110.jpg)
+![img](/assets/08/image110.jpg)
 
 图8-107
 
-![img](/../../第八章活灵活现.files/image111.jpg)
+![img](/assets/08/image111.jpg)
 
 图8-108
 
-![img](/../../第八章活灵活现.files/image112.jpg)
+![img](/assets/08/image112.jpg)
 
 图8-109
 
 #### **螺旋飞出**
 
-![img](/../../第八章活灵活现.files/image113.jpg)
+![img](/assets/08/image113.jpg)
 
 图8-110
 
-![img](/../../第八章活灵活现.files/image114.jpg)
+![img](/assets/08/image114.jpg)
 
 图8-111
 
-![img](/../../第八章活灵活现.files/image115.jpg)
+![img](/assets/08/image115.jpg)
 
 图8-112
 
@@ -493,29 +493,29 @@ typora-root-url: ..\assets\08
 
 路径动画是极其灵活的一种动画，最大的原因就是可以自定义的路径，不必局限于已有的运动路径，那么只要能画，用得好，路径动画的灵活性能给你带来意想不到的惊喜。
 
-![img](/../../第八章活灵活现.files/image116.jpg)
+![img](/assets/08/image116.jpg)
 
 图8-113
 
 不管是文字还是图片、图形，都可以使用路径动画，路径动画不一定是直来直去，还可以有不同的形状可供选择，例如插入一个桃心的形状，然后使用心形路径。
 
-![img](/../../第八章活灵活现.files/image117.jpg)
+![img](/assets/08/image117.jpg)
 
 图8-114
 
-![img](/../../第八章活灵活现.files/image118.jpg)
+![img](/assets/08/image118.jpg)
 
 图8-115
 
-![img](/../../第八章活灵活现.files/image119.jpg)
+![img](/assets/08/image119.jpg)
 
 图8-116
 
-![img](/../../第八章活灵活现.files/image120.jpg)
+![img](/assets/08/image120.jpg)
 
 图8-117
 
-![img](/../../第八章活灵活现.files/image121.jpg)
+![img](/assets/08/image121.jpg)
 
 图8-118
 
@@ -525,15 +525,15 @@ typora-root-url: ..\assets\08
 
 例如使用“直线”路径动画，如下图所示。
 
-![img](/../../第八章活灵活现.files/image122.jpg)
+![img](/assets/08/image122.jpg)
 
 图8-119
 
-![img](/../../第八章活灵活现.files/image123.jpg)
+![img](/assets/08/image123.jpg)
 
 图8-120
 
-![img](/../../第八章活灵活现.files/image124.jpg)
+![img](/assets/08/image124.jpg)
 
 图8-121
 
@@ -543,7 +543,7 @@ typora-root-url: ..\assets\08
 
 页面切换效果是从上一张幻灯片切换到此张幻灯片的过程，设置切换动画效果，它显示的方式就在幻灯片的切换上，它的存在能有效的避免幻灯片在切换过程中的生硬，结合画面版式或对象动画，将会创造出让人觉得非常流畅的播放效果来。
 
-![img](/../../第八章活灵活现.files/image125.jpg)
+![img](/assets/08/image125.jpg)
 
 图8-122
 
@@ -551,6 +551,6 @@ typora-root-url: ..\assets\08
 
 在什么时候需要使用它呢，例如在一些非正式场合或娱乐性较强的场合，页面中对象动画较多，幻灯片相互之间或许有些不协调，那么完全可以考虑使用切换动换，合适的切换动画能轻松的消除幻灯片间的“隔阂”。
 
-![img](/../../第八章活灵活现.files/image126.jpg)
+![img](/assets/08/image126.jpg)
 
 图8-123
