@@ -1,11 +1,11 @@
 # 第十六章	存在不只为了美 —— 图片设计
 
-- [16.1  模糊背景的处理](chapter16/chapter16-1.md)	
-- [16.2  抠图](chapter16/chapter16-2.md)
-- [16.3  图片的单反设计](chapter16/chapter16-3.md)	
-- [16.4  案例](chapter16/chapter16-4.md)
-- [16.5  图片的通道设计](chapter16/chapter16-5.md)	
-- [16.6  本章小结](chapter16/chapter16-6.md)
+- [16.1  模糊背景的处理](./chapter16-1.md)	
+- [16.2  抠图](./chapter16-2.md)
+- [16.3  图片的单反设计](./chapter16-3.md)	
+- [16.4  案例](./chapter16-4.md)
+- [16.5  图片的通道设计](./chapter16-5.md)	
+- [16.6  本章小结](./chapter16-6.md)
 
 -------
 

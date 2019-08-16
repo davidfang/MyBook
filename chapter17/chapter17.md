@@ -1,11 +1,11 @@
 # 第十七章	数据的创意展示 —— 图表设计
 
-- [17.1  利用SmartArt循环图创作图表](chapter17/chapter17-1.md)	
-- [17.2  利用流程箭头创作图表](chapter17/chapter17-2.md)
-- [17.3  数据焦点阐述](chapter17/chapter17-3.md)
-- [17.4  图表简单化](chapter17/chapter17-4.md)	
-- [17.5  不一样的图表](chapter17/chapter17-5.md)
-- [17.6  本章小结](chapter17/chapter17-6.md)
+- [17.1  利用SmartArt循环图创作图表](./chapter17-1.md)	
+- [17.2  利用流程箭头创作图表](./chapter17-2.md)
+- [17.3  数据焦点阐述](./chapter17-3.md)
+- [17.4  图表简单化](./chapter17-4.md)	
+- [17.5  不一样的图表](./chapter17-5.md)
+- [17.6  本章小结](./chapter17-6.md)
 
 ------------
 

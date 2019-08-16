@@ -5,10 +5,10 @@ typora-root-url: ..\assets\12
 
 # 第十二章	 PPT的三大原则
 
-- [12.1  统一](chapter12/chapter12-1.md)
-- [12.2  重复](chapter12/chapter12-2.md)
-- [12.3  简单](chapter12/chapter12-3.md)
-- [12.4  本章小结](chapter12/chapter12-4.md)
+- [12.1  统一](./chapter12-1.md)
+- [12.2  重复](./chapter12-2.md)
+- [12.3  简单](./chapter12-3.md)
+- [12.4  本章小结](./chapter12-4.md)
 
 ---
 

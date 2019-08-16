@@ -5,13 +5,13 @@ typora-root-url: ..\assets\08
 
 # 第八章	活灵活现 —— 动画
 
-- [8.1  插入动画](chapter8/chapter8-1.md)
-- [8.2  动画的5种类型](chapter8/chapter8-2.md)
-- [8.3  设置动画参数](chapter8/chapter8-3.md)
-  - [8.3.1  “高级动画”工具栏](chapter8/chapter8-3-1.md)
-  - [8.3.2  “计时”工具栏](chapter8/chapter8-3-2.md)
-- [8.4  动画设置示例](chapter8/chapter8-4.md)
-- [8.5  本章小结](chapter8/chapter8-5.md)
+- [8.1  插入动画](./chapter8-1.md)
+- [8.2  动画的5种类型](./chapter8-2.md)
+- [8.3  设置动画参数](./chapter8-3.md)
+  - [8.3.1  “高级动画”工具栏](./chapter8-3-1.md)
+  - [8.3.2  “计时”工具栏](./chapter8-3-2.md)
+- [8.4  动画设置示例](./chapter8-4.md)
+- [8.5  本章小结](./chapter8-5.md)
 
 ---
 

@@ -1,11 +1,11 @@
 # 第十九章	声形结合——多媒体
 
-- [19.1  乐享不同](chapter19/chapter19-1.md)
-- [19.2  声音和视频](chapter19/chapter19-2.md)	
-- [19.3  声音的插入](chapter19/chapter19-3.md)	
-- [19.4  视频的插入](chapter19/chapter19-4.md)	
-- [19.5  搜集PPT](chapter19/chapter19-5.md)
-- [19.6  本章小结](chapter19/chapter19-6.md)
+- [19.1  乐享不同](./chapter19-1.md)
+- [19.2  声音和视频](./chapter19-2.md)	
+- [19.3  声音的插入](./chapter19-3.md)	
+- [19.4  视频的插入](./chapter19-4.md)	
+- [19.5  搜集PPT](./chapter19-5.md)
+- [19.6  本章小结](./chapter19-6.md)
 
 ----
 
