@@ -1,8 +1,8 @@
 # 第十八章	 行云流水 —— 动画设计
 
-- [18.1  倒计时的效果](chapter18/chapter18-1.md)                 
-- [18.2  组合动画](chapter18/chapter18-2.md)
-- [18.3  本章小结](chapter18/chapter18-3.md)
+- [18.1  倒计时的效果](./chapter18-1.md)                 
+- [18.2  组合动画](./chapter18-2.md)
+- [18.3  本章小结](./chapter18-3.md)
 
 --------
 

@@ -1,10 +1,10 @@
 # 第十三章	 搜集资源
 
-- [13.1  字体](chapter13/chapter13-1.md)
-- [13.2  图片](chapter13/chapter13-2.md)
-- [13.3  图标](chapter13/chapter13-4.md)
-- [13.4  模板搜集](chapter13/chapter13-4.md)
-- [13.5  本章小结](chapter13/chapter13-5.md)
+- [13.1  字体](./chapter13-1.md)
+- [13.2  图片](./chapter13-2.md)
+- [13.3  图标](./chapter13-4.md)
+- [13.4  模板搜集](./chapter13-4.md)
+- [13.5  本章小结](./chapter13-5.md)
 
 -----
 

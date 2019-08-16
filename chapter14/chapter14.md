@@ -1,12 +1,12 @@
 # 第十四章	 让图形引导逻辑 —— 图形设计
 
-- [16.1  认识图形](chapter14/chapter14-1.md)	
-- [16.2  初识鼠绘](chapter14/chapter14-2.md)	
-- [16.3  线条的作用](chapter14/chapter14-3.md)	
-- [16.4  其他线条](chapter14/chapter14-4.md)	
-- [16.5  线条引导逻辑](chapter14/chapter14-5.md)	
-- [16.6  学会偷懒](chapter14/chapter14-6.md)	
-- [16.7  本章小结](chapter14/chapter14-7.md)	
+- [16.1  认识图形](./chapter14-1.md)	
+- [16.2  初识鼠绘](./chapter14-2.md)	
+- [16.3  线条的作用](./chapter14-3.md)	
+- [16.4  其他线条](./chapter14-4.md)	
+- [16.5  线条引导逻辑](./chapter14-5.md)	
+- [16.6  学会偷懒](./chapter14-6.md)	
+- [16.7  本章小结](./chapter14-7.md)	
 
 ---
 

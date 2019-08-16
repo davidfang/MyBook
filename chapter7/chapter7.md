@@ -5,15 +5,15 @@ typora-root-url: ..\assets\07
 
 # 第七章	清晰明了 —— 图表
 
-- [7.1  插入表格](chapter7/chapter7-1.md)	
-- [7.2  设置表格的默认样式](chapter7/chapter7-2.md)	
-- [7.3  设置表格的背景](chapter7/chapter7-3.md)	
-- [7.4  设置表格的边框](chapter7/chapter7-4.md)
-- [7.5  设置表格的特效](chapter7/chapter7-5.md)
-- [7.6  设置表格的大小](chapter7/chapter7-6.md)
-- [7.7  常用图表举例](chapter7/chapter7-7.md)
-- [7.8  使用图表](chapter7/chapter7-8.md)
-- [7.9  本章小结](chapter7/chapter7-9.md)
+- [7.1  插入表格](./chapter7-1.md)	
+- [7.2  设置表格的默认样式](./chapter7-2.md)	
+- [7.3  设置表格的背景](./chapter7-3.md)	
+- [7.4  设置表格的边框](./chapter7-4.md)
+- [7.5  设置表格的特效](./chapter7-5.md)
+- [7.6  设置表格的大小](./chapter7-6.md)
+- [7.7  常用图表举例](./chapter7-7.md)
+- [7.8  使用图表](./chapter7-8.md)
+- [7.9  本章小结](./chapter7-9.md)
 
 ---------
 

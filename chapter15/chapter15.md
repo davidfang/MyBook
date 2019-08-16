@@ -1,12 +1,12 @@
 # 第十五章	 PPT之神 —— 文字设计
 
-- [15.1  图文混排](chapter15/chapter15-1.md)
-- [15.2  具体示例——图文混排](chapter15/chapter15-2.md)
-- [15.3  高桥流](chapter15/chapter15-3.md)	
-- [15.4  文字云](chapter15/chapter15-4.md)	
-- [15.5  玻璃字](chapter15/chapter15-5.md)	
-- [15.6  发光字](chapter15/chapter15-6.md)	
-- [15.7  本章小结](chapter15/chapter15-7.md)
+- [15.1  图文混排](./chapter15-1.md)
+- [15.2  具体示例——图文混排](./chapter15-2.md)
+- [15.3  高桥流](./chapter15-3.md)	
+- [15.4  文字云](./chapter15-4.md)	
+- [15.5  玻璃字](./chapter15-5.md)	
+- [15.6  发光字](./chapter15-6.md)	
+- [15.7  本章小结](./chapter15-7.md)
 
 ---
 
