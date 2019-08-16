@@ -7,7 +7,9 @@ typora-root-url: ..\assets\03
 
 #### 更改文字
 
-![图3-6](/assets/03/image008.png)
+![img](/assets/03/image008.png)
+
+<center>图3-6</center>
 
 主题文字如图3-6所示，当你新建一张幻灯片，占位符（后文有讲解）中默认输入内容的字体为主题字体。插入文本框时，默认字体也是主题字体。这个功能看似无用，其实它是在使用过程中对你非常有帮助的一个功能。
 
@@ -15,23 +17,33 @@ typora-root-url: ..\assets\03
 
 在“设计”选项卡中的“变体”组中单击下拉按钮，如图3-7所示。
 
-![图3-7](/assets/03/image009.png)
+![img](/assets/03/image009.png)
+
+<center>图3-7</center>
 
 在选择字体时，你可以选择中意的内置字体，也可以选择“自定义字体”。
 
-![图3-8](/assets/03/image010.png)
+![img](/assets/03/image010.png)
+
+<center>图3-8</center>
 
 当我们选择自定义字体时，软件会自动弹出一个对话框，如图3-9所示，在设置方案中可以分别设置默认标题和正文，包括中文和英文。
 
-![图3-9](/assets/03/1565873680731.png)
+![1565873680731](/assets/03/1565873680731.png)
+
+<center>图3-9</center>
 
 当设置完成后，自定义主题字体会显示在字体的选择里，如图3-10所示。
 
-![图3-10](/assets/03/image014.png)
+![img](/assets/03/image014.png)
+
+<center>图3-10</center>
 
 选择自定义的主题字体，当我们再次导入内容到PPT中时，导入内容字体将自动变成主题字体。例如将一段文字复制进入PPT，字体从宋体变为了我们一开始设置的楷体，如图3-11所示。
 
-![图3-11](/assets/03/image015.png)
+![img](/assets/03/image015.png)
+
+<center>图3-11</center>
 
 #### **占位符和文本框**
 
@@ -41,17 +53,24 @@ typora-root-url: ..\assets\03
 
 如图3-12所示，新建幻灯片。
 
-![图3-12](/assets/03/image016.png)
+![img](/assets/03/image016.png)
+
+<center>图3-12</center>
 
 在幻灯片板式中有着更多种占位符板式，如图3-13所示。
 
-![图3-13](/assets/03/image017.png)
+![img](/assets/03/image017.png)
+
+<center>图3-13</center>
 
 当我们输入内容，转换视图为大纲视图时，会发现如图3-14所示的效果。
 
-![图3-14](/assets/03/image018.png)
+![img](/assets/03/image018.png)
+
+<center>图3-14</center>
 
 文本框有竖排和横排两种，文本框内不能没有内容，而占位符内可以没有内容。文本框也不能随意的进行缩放。
 
-![图3-15](/assets/03/1565873742768.png)
+![1565873742768](/assets/03/1565873742768.png)
 
+<center>图3-15</center>
