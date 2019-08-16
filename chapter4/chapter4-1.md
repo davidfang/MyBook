@@ -1,6 +1,6 @@
 ## 4.1  调整文本框	
 
-- [4.1.1  插入文本框](chapter4/chapter4-1-1.md)	
-- [4.1.2  设置文本框格式](chapter4/chapter4-1-2.md)	
-- [4.1.3  对齐方式](chapter4/chapter4-1-3.md)	
-- [4.1.4  插入公式和符号](chapter4/chapter4-1-4.md)	
+- [4.1.1  插入文本框](./chapter4-1-1.md)	
+- [4.1.2  设置文本框格式](./chapter4-1-2.md)	
+- [4.1.3  对齐方式](./chapter4-1-3.md)	
+- [4.1.4  插入公式和符号](./chapter4-1-4.md)	
